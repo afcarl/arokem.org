@@ -1,0 +1,39 @@
+.. This (-*- rst -*-) format file contains commonly used link targets
+   and name substitutions.   
+
+.. From the site:
+.. _email me: arokem@gmail.com
+.. _site: http://arokem.org
+.. _github_arokem: http://github.arokem.org
+
+.. Berkeley
+.. _hwni: http://neuroscience.berkeley.edu
+.. _silverlab: http://argentum.ucbso.berkeley.edu
+.. _fperez: http://fperez.org
+
+.. Stanford 
+.. _stanford: http://www.stanford.edu/
+.. _vista: http://white.stanford.edu/
+.. _psych: https://www.stanford.edu/dept/psychology/
+.. _cni: http://cni.stanford.edu/
+.. _wandell: http://white.stanford.edu/wandell
+
+.. nipy
+.. _nipy: http://nipy.sourceforge.net
+.. _nitime: http://nipy.sourceforge.net/nitime
+
+.. Licenses
+.. _GPL: http://www.gnu.org/licenses/gpl.html
+.. _BSD: http://www.opensource.org/licenses/bsd-license.php
+.. _LGPL: http://www.gnu.org/copyleft/lesser.html
+
+.. Python projects
+.. _numpy: http://numpy.scipy.org
+.. _scipy: http://www.scipy.org
+.. _ipython: http://ipython.scipy.org
+.. _matplotlib: http://matplotlib.sourceforge.net
+.. _EPD: http://www.enthought.com/products/epd.php
+.. _python: http://www.python.org
+.. _mayavi: http://code.enthought.com/projects/mayavi
+.. _software carpentry: http://software-carpentry.org
+
