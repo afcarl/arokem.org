@@ -1,12 +1,10 @@
-Contact
-=======
 
-.. admonition:: Ariel Rokem 
+.. admonition:: Contact 
 
    Email
      arokem-atSign-gmail.com
      
-Address
+   Address
      | Department of Psychology, Room 482
      | Jordan Hall, 450 Serra Mall
      | Stanford University

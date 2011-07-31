@@ -7,8 +7,8 @@ July 2011
 __ vista_
      
 June 2011
-     New paper on the role of striatal dopamine transmission in control of the
-     IOR accepted for publication in `Cerebral Cortex <http://cercor.oxfordjournals.org/cgi/content/full/bhr185?ijkey=68y39LPLjuKwg6k&keytype=ref>`_ 
+     New paper on the role of dopamine transmission in visual spatial attention
+     in `Cerebral Cortex <http://cercor.oxfordjournals.org/cgi/content/full/bhr185?ijkey=68y39LPLjuKwg6k&keytype=ref>`_ 
 
 .. stop-recent-news
 

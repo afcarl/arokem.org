@@ -22,6 +22,9 @@
 .. _nipy: http://nipy.sourceforge.net
 .. _nitime: http://nipy.sourceforge.net/nitime
 
+.. huji
+.. _merav: http://elsc.huji.ac.il/ahissar/home
+
 .. Licenses
 .. _GPL: http://www.gnu.org/licenses/gpl.html
 .. _BSD: http://www.opensource.org/licenses/bsd-license.php
