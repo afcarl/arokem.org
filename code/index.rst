@@ -4,14 +4,15 @@
  Software Development
 ======================
 
-Scientific research is increasingly becoming more and more rooted in the
-writing of software. I firmly believe that in order for scientific results to
-be reproducible it is essential to publish the computer code written, together
-with the results. I try to develop research software that can be used by
-others. I started doing that as a graduate student at Berkeley, working on the
-`nipy`__ project. I have learned a lot from working on these things with
-`Fernando Perez`__ (to whom I also owe the machinery used to create this
-`website <http://fperez.org/code/index.html#how-this-site-is-built>`_).
+Scientific research requires writing computer code. In order for scientific
+results to be reproducible it is essential that we publish the computer code
+used to generate our results. In an effort to start doing that, I am trying to
+develop research software that can be used by others. I started doing that as a
+graduate student at Berkeley, working on the `nipy`__ project. I have learned a
+lot about software from working with `Fernando Perez`__ (to whom I also owe
+the machinery used to create `this website
+<http://fperez.org/code/index.html#how-this-site-is-built>`_). Here are
+software project(s) I have been working on:
 
 __ nipy_
 __ fperez_
