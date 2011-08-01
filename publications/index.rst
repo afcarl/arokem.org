@@ -6,7 +6,7 @@ Publications
 
 #. **A. Rokem**, J.H. Yoon, R.E. Ooms, R.J. Maddock, M. Minzenberg and
    M.A. Silver (*in review*). Broader visual orientation tuning in patients with
-   schizophrenia.
+   schizophrenia. `pdf <_static/>`
 
 #. **A. Rokem**, A. Landau, W. Prinzmetal, D. Wallace, M.A. Silver and
    M. D'Esposito (in press). Modulation of inhibition of return by the dopamine
@@ -15,7 +15,7 @@ Publications
 
 #. **A. Rokem** and M.A. Silver (2010) Cholinergic enhancement augments
    magnitude and specificity of visual perceptual learning in healthy humans.
-   *Current Biology* 20: 1723-1728 
+   *Current Biology* 20: 1723-1728 `pdf <static/rokem_and_silver_2010.pdf>`
 
 #. **A. Rokem**, A. N. Landau, D. Garg, W. Prinzmetal and M.A. Silver (2010).
    Effects of cholinergic enhancement on voluntary and involuntary visual spatia

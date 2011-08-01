@@ -4,12 +4,14 @@
  Software Development
 ======================
 
-In the interest of conducting reproducible, I try to develop research software
-that can be used by others. I started doing that as a graduate student at
-Berkeley, working on the `nipy`__ project. I have learned a lot from working on
-these things with `Fernando Perez`__ (to whom I also owe the machinery used to
-create this `website
-<http://fperez.org/code/index.html#how-this-site-is-built>`_).
+Scientific research is increasingly becoming more and more rooted in the
+writing of software. I firmly believe that in order for scientific results to
+be reproducible it is essential to publish the computer code written, together
+with the results. I try to develop research software that can be used by
+others. I started doing that as a graduate student at Berkeley, working on the
+`nipy`__ project. I have learned a lot from working on these things with
+`Fernando Perez`__ (to whom I also owe the machinery used to create this
+`website <http://fperez.org/code/index.html#how-this-site-is-built>`_).
 
 __ nipy_
 __ fperez_

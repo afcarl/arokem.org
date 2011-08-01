@@ -10,6 +10,14 @@
 .. _hwni: http://neuroscience.berkeley.edu
 .. _silverlab: http://argentum.ucbso.berkeley.edu
 .. _fperez: http://fperez.org
+.. _ucberkeley: http://berkeley.edu
+.. _crcns: http://crcns.org
+.. _ayelet: http://argentum.ucbso.berkeley.edu/ayelet.html
+.. _bill: http://socrates.berkeley.edu/~wprinz/
+.. _mark: http://despolab.berkeley.edu/people/Faculty
+.. _deanna: http://despolab.berkeley.edu/people/Fellows
+.. _jong: http://ucdirc.ucdavis.edu/people/yoon.php 
+.. _cam: http://ucdirc.ucdavis.edu/people/carter.php
 
 .. Stanford 
 .. _stanford: http://www.stanford.edu/
@@ -23,7 +31,18 @@
 .. _nitime: http://nipy.sourceforge.net/nitime
 
 .. huji
+.. _huji: http://huji.ac.il
 .. _merav: http://elsc.huji.ac.il/ahissar/home
+.. _hujipsych: http://psychology.huji.ac.il/
+
+.. humboldt-uni
+.. _itb: http://itb.biologie.hu-berlin.de/
+.. _andreas: http://www.bccn-munich.de/people/scientists-2/andreas-herz
+.. _ines: http://www.cab.cnea.gov.ar/~samengo/
+.. _tim: http://www.retina.uni-goettingen.de/index.html
+.. _sebastian: http://www.people.fas.harvard.edu/~watzl/
+.. _martin: http://www.bccn-munich.de/people/scientists-2/martin-stemmler
+.. _hugo: http://eyherabidehg.webcindario.com/publications.html
 
 .. Licenses
 .. _GPL: http://www.gnu.org/licenses/gpl.html
