@@ -9,7 +9,7 @@ Publications
    schizophrenia. 
 
 #. **A. Rokem**, A. Landau, W. Prinzmetal, D. Wallace, M.A. Silver and
-   M. D'Esposito (in press). Modulation of inhibition of return by the dopamine
+   M. D'Esposito (*in press*). Modulation of inhibition of return by the dopamine
    D2 receptor agonist bromocriptine depends on individual DAT1 genotype.
    *Cerebral Cortex*. `pdf <papers/Rokem2011Dopamine.pdf>`_	      
 
