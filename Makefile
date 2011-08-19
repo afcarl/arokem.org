@@ -12,7 +12,7 @@ SOURCEDIR     = .
 STATICDIR   = _static
 STATIC_CSS  = themes/arokem/static
 SITE        = $(BUILDDIR)/html
-WWW         = fdo_perez@fperez.org:fperez.org/www
+WWW         = arokem@arokem.org:arokem.org/
 
 # Internal variables.
 ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(SPHINXOPTS) $(SOURCEDIR)
