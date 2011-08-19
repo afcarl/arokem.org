@@ -7,7 +7,7 @@ August 2011
 __ nitime_
 
 July 2011
-     Starting at the `Vista lab`__ in Stanford!
+     Starting at the `Vista lab`__ in Stanford.
 
 __ vista_
      
