@@ -1,6 +1,11 @@
 News
 ====
 
+August 2011
+     Version 0.3 of `nitime`__ available.
+
+__ nitime_
+
 July 2011
      Starting at the `Vista lab`__ in Stanford!
 
