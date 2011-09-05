@@ -4,7 +4,7 @@
 .. From the site:
 .. _email me: arokem@gmail.com
 .. _site: http://arokem.org
-.. _github_arokem: http://github.arokem.org
+.. _github: http://github.com/arokem
 
 .. Berkeley
 .. _hwni: http://neuroscience.berkeley.edu
@@ -58,4 +58,4 @@
 .. _python: http://www.python.org
 .. _mayavi: http://code.enthought.com/projects/mayavi
 .. _software carpentry: http://software-carpentry.org
-
+.. _whypython: http://www.stat.washington.edu/~hoytak/blog/whypython.html
