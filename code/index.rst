@@ -1,8 +1,8 @@
 .. _code:
 
-===================================
- Software Development Data Sharing
-===================================
+=======================================
+ Software Development and Data Sharing
+=======================================
 
 As our tools to study the brain become more and more sophisticated, we are
 faced with massive amounts of data. Increasingly, scientific research requires
