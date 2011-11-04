@@ -4,14 +4,14 @@
 Publications
 ============
 
-#. **A. Rokem**, J.H. Yoon, R.E. Ooms, R.J. Maddock, M. Minzenberg and
-   M.A. Silver (*in review*). Broader visual orientation tuning in patients with
-   schizophrenia. 
-
 #. **A. Rokem**, A. Landau, W. Prinzmetal, D. Wallace, M.A. Silver and
    M. D'Esposito (*in press*). Modulation of inhibition of return by the dopamine
    D2 receptor agonist bromocriptine depends on individual DAT1 genotype.
    *Cerebral Cortex*. `pdf <papers/Rokem2011DopamineIOR.pdf>`_	      
+
+#. **A. Rokem**, J.H. Yoon, R.E. Ooms, R.J. Maddock, M. J. Minzenberg and
+   M.A. Silver (2011). Broader visual orientation tuning in patients with
+   schizophrenia. *Frontiers in Human Neuroscience* 5: 127 `pdf <papers/Rokem2011OT.pdf>`_  
 
 #. **A. Rokem** and M.A. Silver (2010) Cholinergic enhancement augments
    magnitude and specificity of visual perceptual learning in healthy humans.
