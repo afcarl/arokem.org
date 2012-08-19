@@ -84,13 +84,13 @@ Vistasoft
 ---------
 
 `Vistasoft`__ is the code repository of the `Vistalab`__ at Stanford
-university. It contains functions for the analysis of BOLD fMRI and diffusion
-MRI data, including state-of-the-art methods for stimulus presentation, analysis
-and modeling of fMRI data from visual neuroscience experiments and powerful
-tools for the visualization of these data and the models derived from
-them. Most of the code is implemented in Matlab, with extensions in
-C/MEX. Below is a visualization of visual field maps in early visual areas on
-an inflated representation of the surface of the cortex in one hemisphere. 
+university, implemented mostly in Matlab. It contains functions for the
+analysis of BOLD fMRI and diffusion MRI data, including state-of-the-art
+methods for stimulus presentation, analysis and modeling of MRI data from
+visual neuroscience experiments and powerful tools for the visualization of
+these data and the models derived from them. Below is a representation of
+visual field maps in early visual areas on the surface of the cerebral cortex
+in one hemisphere.
 
 __ vistasoft_
 __ vista_
