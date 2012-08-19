@@ -25,10 +25,18 @@
 .. _psych: https://www.stanford.edu/dept/psychology/
 .. _cni: http://cni.stanford.edu/
 .. _wandell: http://white.stanford.edu/wandell
+.. _vistasoft: http://white.stanford.edu/software/
 
 .. nipy
-.. _nipy: http://nipy.sourceforge.net
-.. _nitime: http://nipy.sourceforge.net/nitime
+.. _nipy: http://nipy.org
+.. _nitime: http://nipy.org/nitime
+.. _nitimedevs: https://github.com/nipy/nitime/graphs/contributors
+.. _dipy: http://nipy.org/dipy
+.. _eleftherios: https://github.com/Garyfallidis
+.. _dipydevs: https://github.com/nipy/dipy/graphs/contributors
+.. _stefan: http://mentat.za.net/
+.. _bago: https://github.com/MrBago/
+.. _matthew: http://matthew.dynevor.org/ 
 
 .. huji
 .. _huji: http://huji.ac.il
@@ -59,3 +67,5 @@
 .. _mayavi: http://code.enthought.com/projects/mayavi
 .. _software carpentry: http://software-carpentry.org
 .. _whypython: http://www.stat.washington.edu/~hoytak/blog/whypython.html
+.. _psychopy: http://www.psychopy.org/
+.. _jonpeirce: http://www.psychology.nottingham.ac.uk/research/vision/jwp/

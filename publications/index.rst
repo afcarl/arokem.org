@@ -5,9 +5,9 @@ Publications
 ============
 
 #. **A. Rokem**, A. Landau, W. Prinzmetal, D. Wallace, M.A. Silver and
-   M. D'Esposito (*in press*). Modulation of inhibition of return by the dopamine
+   M. D'Esposito (2012). Modulation of inhibition of return by the dopamine
    D2 receptor agonist bromocriptine depends on individual DAT1 genotype.
-   *Cerebral Cortex*. `pdf <papers/Rokem2011DopamineIOR.pdf>`_	      
+   *Cerebral Cortex*  22: 1133-8. `pdf <papers/Rokem2011DopamineIOR.pdf>`_	     
 
 #. **A. Rokem**, J.H. Yoon, R.E. Ooms, R.J. Maddock, M. J. Minzenberg and
    M.A. Silver (2011). Broader visual orientation tuning in patients with
