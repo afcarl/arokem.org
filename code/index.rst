@@ -43,11 +43,11 @@ and an estimate of the fiber orientation density function associated with the
 signal in that location.
 
 .. image:: dipy_vizualisation1.png
-   :scale: 60 %
+   :scale: 80 %
    :target: http://nipy.org/dipy
 
 .. image:: dipy_vizualisation2.png
-   :scale: 60 %
+   :scale: 80 %
    :target: http://nipy.org/dipy
 
 __ dipy_
@@ -88,10 +88,18 @@ university. It contains functions for the analysis of BOLD fMRI and diffusion
 MRI data, including state-of-the-art methods for stimulus presentation, analysis
 and modeling of fMRI data from visual neuroscience experiments and powerful
 tools for the visualization of these data and the models derived from
-them. Most of the code is implemented in Matlab, with extensions in C/MEX. 
+them. Most of the code is implemented in Matlab, with extensions in
+C/MEX. Below is a visualization of visual field maps in early visual areas on
+an inflated representation of the surface of the cortex in one hemisphere. 
 
 __ vistasoft_
 __ vista_
+
+.. image:: vista_viz.png
+   :scale: 60 %
+   :target: http://white.stanford.edu/newlm/index.php/Main_Page
+
+
 
 Psychopy
 --------
@@ -112,6 +120,11 @@ Grasshopper data
 I have made a couple of the data sets that I collected at the `ITB`__ available
 on the `CRCNS`__ website. You can find the details `here
 <http://crcns.org/data-sets/ia>`_. 
+
+.. image:: grasshopper.gif
+   :scale: 120 %
+   :target: http://jn.physiology.org/content/95/4.cover-expansion
+
 
 __ itb_
 __ crcns_
