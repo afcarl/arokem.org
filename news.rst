@@ -1,6 +1,11 @@
 News
 ====
 
+June 2012
+   Version 0.4 of `nitime`__ is available
+
+__ nitime_
+
 November 2011
      New paper on orientation tuning in patients with schizophrenia in
      `Frontiers in Human Neuroscience <http://www.frontiersin.org/human_neuroscience/10.3389/fnhum.2011.00127/abstract>`_
