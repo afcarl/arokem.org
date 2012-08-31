@@ -1,5 +1,8 @@
-#!/usr/bin/env python2.6
-"""Copy data files to final html directory.
+#!/usr/bin/env python
+"""
+
+Copy data files to final html directory.
+
 """
 
 #-----------------------------------------------------------------------------
@@ -46,6 +49,7 @@ top_files = ['links.txt']
 # Functions
 #-----------------------------------------------------------------------------
 
+
 def print(*args, **kw):
     verb = kw.pop('verbose', verbose)
     if verb:
@@ -74,7 +78,6 @@ def copy_files(root, files):
     if did_copy:
         print()
     
-
 def main():
     if not os.path.isdir(out_dir):
         err = 'ERROR: Output directory {0} not found.'.format(out_dir)
@@ -110,9 +113,10 @@ def main():
             copy_files(root, set(top_files) & set(files))
 
         copy_files(root, files)
-
+        
 #-----------------------------------------------------------------------------
 # Execute as a script
 #-----------------------------------------------------------------------------
 if __name__ == '__main__':
     main()
+    
