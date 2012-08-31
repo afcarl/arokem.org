@@ -4,6 +4,39 @@
 Professional bio
 ================
 
+   
+Research experience
+-------------------
+   ===========    ===============================================================
+
+   2011 -            Postdoctoral researcher, the Department of Psychology, Stanford University, laboratory of `Brian Wandell`__.  Diffusion imaging, fMRI, and computational modeling studies of the human visual system.
+
+   2005 - 2010	  Graduate student and postdoctoral researcher, Helen Wills
+                  Neuroscience Institute, University of California, Berkeley,
+		  laboratory of `Michael Silver`__. Psychophysical, behavioral
+		  pharmacological, fMRI, and computational modeling studies of
+		  the neurochemical and neurophysiological substrates of human
+		  visual perceptual learning, attention and surround
+		  suppression.
+   
+   2003 - 2005    Graduate student, Department of Psychology, Hebrew
+                  University of Jerusalem, laboratory of `Merav Ahissar`__.
+		  Behavioral studies of cognitive and sensory compensation in
+		  auditory perception in blind individuals. 
+
+   2002 - 2003    The `Institute for Theoretical Biology`__, Humboldt University,
+                  Berlin, laboratory of `Andreas Herz`__.  Electrophysiological
+                  and computational studies of reliability of the responses of
+                  grasshopper auditory receptor neurons.
+   ===========    ===============================================================
+
+   __ vista_
+   __ silverlab_
+   __ merav_
+   __ itb_
+   __ andreas_
+   
+
 Education
 ---------
 
@@ -25,34 +58,8 @@ Education
    __ hujipsych_
    __ huji_
    __ huji_
-   
-Research experience
--------------------
-   ===========    ===============================================================
-   2005 - 2010	  Graduate student and postdoctoral researcher, Helen Wills
-                  Neuroscience Institute, University of California, Berkeley,
-		  laboratory of `Michael Silver`__. Psychophysical, behavioral
-		  pharmacological, fMRI, and computational modeling studies of
-		  the neurochemical and neurophysiological substrates of human
-		  visual perceptual learning, attention and surround
-		  suppression.
-   
-   2003 - 2005    Graduate student, Department of Psychology, Hebrew
-                  University of Jerusalem, laboratory of `Merav Ahissar`__.
-		  Behavioral studies of cognitive and sensory compensation in
-		  auditory perception in blind individuals. 
 
-   2002 - 2003    The `Institute for Theoretical Biology`__, Humboldt University,
-                  Berlin, laboratory of `Andreas Herz`__.  Electrophysiological
-                  and computational studies of reliability of the responses of
-                  grasshopper auditory receptor neurons.
-   ===========    ===============================================================
 
-   __ silverlab_
-   __ merav_
-   __ itb_
-   __ andreas_
-   
 For a full cv, please `contact me <mailto:arokem@gmail.com>`_
 
 .. include:: links.txt

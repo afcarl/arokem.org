@@ -62,5 +62,6 @@ css:
 	rsync -av --exclude=~ $(STATIC_CSS)/ $(SITE)/$(STATICDIR)
 
 site: html
+	./google_analytics_script.py
 	./copy_trees.py
 
