@@ -1,6 +1,12 @@
 News
 ====
 
+September 2012
+     New paper on acetylcholine, surround suppression and crowding out in 
+     `Frontiers in Behavioral Neuroscience <http://www.frontiersin.org/Behavioral_Neuroscience/10.3389/fnbeh.2012.00061/abstract>`_
+
+
+
 June 2012
    Version 0.4 of `nitime`__ is available
 

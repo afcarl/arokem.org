@@ -4,6 +4,11 @@
 Publications
 ============
 
+#. A.A. Kosovicheva, S.L. Sheremata, **A. Rokem**, A.N. Landau, and
+   M.A. Silver(2012). Cholinergic enhancement reduces orientation-specific
+   surround suppression but not visual crowding. *Frontiers in Behavioral
+   Neuroscience* 6: 61.  `pdf <papers/Kosovicheva2012OSSSCrowding.pdf>`_
+
 #. **A. Rokem**, A. Landau, W. Prinzmetal, D. Wallace, M.A. Silver and
    M. D'Esposito (2012). Modulation of inhibition of return by the dopamine
    D2 receptor agonist bromocriptine depends on individual DAT1 genotype.
