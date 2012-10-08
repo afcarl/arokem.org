@@ -22,8 +22,8 @@ NIPY
 ====
 
 `Nipy`__ is a community which fosters the collaborative writing of reproducible
-research code for neuroimaging in the (using `Python`__). I am currently
-involved in the development of two libraries within this framework:
+research code for neuroimaging in the `Python`__ programming language. I am
+currently involved in the development of two libraries within this framework:
 
 __ nipy_
 __ whypython_
