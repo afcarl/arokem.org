@@ -1,6 +1,11 @@
 News
 ====
 
+March 2013
+	Version 0.6 of `dipy`__ available
+	
+__ dipy_
+
 September 2012
      New paper on acetylcholine, surround suppression and crowding out in 
      `Frontiers in Behavioral Neuroscience <http://www.frontiersin.org/Behavioral_Neuroscience/10.3389/fnbeh.2012.00061/abstract>`_
