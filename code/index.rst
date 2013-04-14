@@ -100,6 +100,16 @@ __ vista_
    :target: http://white.stanford.edu/newlm/index.php/Main_Page
 
 
+The Python <=> MATLAB bridge 
+----------------------------
+
+Originally created by `Max Jaderberg`__, `pymatbridge`__ aims to enable communication between code that runs on Matlab (TM) and python code. In addition, we have developed a `Matlab magic` for use with `IPython`__. 
+
+
+__ jadeberg
+__ pymatbridge
+__ ipython
+
 
 Psychopy
 --------

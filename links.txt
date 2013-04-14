@@ -69,3 +69,7 @@
 .. _whypython: http://www.stat.washington.edu/~hoytak/blog/whypython.html
 .. _psychopy: http://www.psychopy.org/
 .. _jonpeirce: http://www.psychology.nottingham.ac.uk/research/vision/jwp/
+.. _jaderberg: http://www.maxjaderberg.com/
+.. _pymatbridge: http://arokem.github.io/python-matlab-bridge/
+.. _ipython: http://ipython.org
+
