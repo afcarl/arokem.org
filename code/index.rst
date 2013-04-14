@@ -138,4 +138,12 @@ on the `CRCNS`__ website. You can find the details `here
 __ itb_
 __ crcns_
 
+Diffusion MRI data
+------------------
+
+Together with colleagues at Stanford, I have recently shared a high angular resolution diffusion imaging (HARDI) data set, which can be found `here`__
+
+__ hardi2k_
+
+
 .. include:: links.txt

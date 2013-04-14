@@ -26,6 +26,7 @@
 .. _cni: http://cni.stanford.edu/
 .. _wandell: http://white.stanford.edu/wandell
 .. _vistasoft: http://white.stanford.edu/software/
+.. _hardi2k: http://purl.stanford.edu/yx282xq2090
 
 .. nipy
 .. _nipy: http://nipy.org
@@ -71,3 +72,4 @@
 .. _jonpeirce: http://www.psychology.nottingham.ac.uk/research/vision/jwp/
 .. _jaderberg: http://www.maxjaderberg.com/
 .. _pymatbridge: http://arokem.github.io/python-matlab-bridge/
+
