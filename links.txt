@@ -60,7 +60,7 @@
 .. Python projects
 .. _numpy: http://numpy.scipy.org
 .. _scipy: http://www.scipy.org
-.. _ipython: http://ipython.scipy.org
+.. _ipython: http://ipython.org
 .. _matplotlib: http://matplotlib.sourceforge.net
 .. _EPD: http://www.enthought.com/products/epd.php
 .. _python: http://www.python.org
@@ -71,5 +71,3 @@
 .. _jonpeirce: http://www.psychology.nottingham.ac.uk/research/vision/jwp/
 .. _jaderberg: http://www.maxjaderberg.com/
 .. _pymatbridge: http://arokem.github.io/python-matlab-bridge/
-.. _ipython: http://ipython.org
-
