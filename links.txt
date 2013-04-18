@@ -5,6 +5,7 @@
 .. _email me: arokem@gmail.com
 .. _site: http://arokem.org
 .. _github: http://github.com/arokem
+.. _calendar: https://www.google.com/calendar/embed?src=arokem%40gmail.com&ctz=America/Los_Angeles
 
 .. Berkeley
 .. _hwni: http://neuroscience.berkeley.edu
