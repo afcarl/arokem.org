@@ -1,6 +1,10 @@
 News
 ====
 
+May 2013 
+	New paper on the long-term effects of perceptual learning under cholinergic enhancement out in `Frontiers in Computational Neuroscience <http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2013.00066/abstract>`_
+
+
 March 2013
 	Version 0.6 of `dipy`__ available
 	
