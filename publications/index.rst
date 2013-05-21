@@ -4,7 +4,7 @@
 Publications
 ============
 
-#. **A. Rokem** and M.A. Silver(2013). The benefits of cholinergic enhancement during perceptual learning are long-lasting. *Frontiers in Computational Neuroscienc*: 7:66 `pdf <http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=118438&articleId=43956&Version=1&ContentTypeId=58&FileName=Provisional%20PDF%201.PDF>`_
+#. **A. Rokem** and M.A. Silver(2013). The benefits of cholinergic enhancement during perceptual learning are long-lasting. *Frontiers in Computational Neuroscience*: 7:66 `pdf <http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=118438&articleId=43956&Version=1&ContentTypeId=58&FileName=Provisional%20PDF%201.PDF>`_
 	
 #. A.A. Kosovicheva, S.L. Sheremata, **A. Rokem**, A.N. Landau, and
    M.A. Silver(2012). Cholinergic enhancement reduces orientation-specific
