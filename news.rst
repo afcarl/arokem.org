@@ -7,8 +7,11 @@ May 2013
 
 March 2013
 	Version 0.6 of `dipy`__ available
-	
+
+
 __ dipy_
+
+.. stop-recent-news
 
 September 2012
      New paper on acetylcholine, surround suppression and crowding out in 
@@ -30,7 +33,6 @@ August 2011
 
 __ nitime_
 
-.. stop-recent-news
 
 July 2011
      Starting at the `Vista lab`__ in Stanford.
