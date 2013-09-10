@@ -1,6 +1,13 @@
 News
 ====
+September 2013
+	New review article about vision sciences as a tool to study
+	schizophrenia, out in `Frontiers in Psychopathology <http://www.frontiersin.org/Psychopathology/10.3389/fpsyg.2013.00681/abstract>`_
 
+
+May 2013
+	New paper modeling fMRI responses in visual cortex out in `PLoS Computational Biology <http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003079>`_
+	
 May 2013 
 	New paper on the long-term effects of perceptual learning under cholinergic enhancement out in `Frontiers in Computational Neuroscience <http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2013.00066/abstract>`_
 
