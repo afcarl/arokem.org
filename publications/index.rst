@@ -7,7 +7,7 @@ Publications
 
 #. J.H. Yoon, S.L. Sheremata, **A. Rokem**, and M.A. Silver (2013). Windows to the soul: vision science as a tool for studying biological mechanisms of  information processing deficits in schizophrenia. *Frontiers in Psychopathology*.  4:681 `pdf <http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=8883&articleId=56129&Version=1&ContentTypeId=21&FileName=fpsyg-04-00681.pdf>`_  
 
-#. K.N. Kay, J. Winawer, **A. Rokem**, A. Mezer and B.A. Wandell (2013) A Two-Stage Cascade Model of BOLD Responses in Human Visual Cortex. PLoS Computational Biology 9: e1003079. `pdf <papers/Kay2013SOC.pdf>`_
+#. K.N. Kay, J. Winawer, **A. Rokem**, A. Mezer and B.A. Wandell (2013) A Two-Stage Cascade Model of BOLD Responses in Human Visual Cortex. *PLoS Computational Biology* 9: e1003079. `pdf <papers/Kay2013SOC.pdf>`_
 
 #. **A. Rokem** and M.A. Silver (2013). The benefits of cholinergic enhancement during perceptual learning are long-lasting. *Frontiers in Computational Neuroscience*: 7:66 `pdf <http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=118438&articleId=43956&Version=1&ContentTypeId=58&FileName=Provisional%20PDF%201.PDF>`_
 	
