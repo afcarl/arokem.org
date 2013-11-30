@@ -3,7 +3,7 @@
 ============
 Publications
 ============
-#. E.A. McDevitt\*, **A. Rokem**\* (\* equal contributors), M.A. Silver, and S.C. Mednick (*in press*). Sex differences in sleep-dependent perceptual learning. Vision Research.  
+#. E.A. McDevitt\*, **A. Rokem**\* (\* equal contributors), M.A. Silver, and S.C. Mednick (*in press*). Sex differences in sleep-dependent perceptual learning. Vision Research. `pdf <papers/McDevittRokem2013Naps.pdf>`_ 
 
 #. J.H. Yoon, S.L. Sheremata, **A. Rokem**, and M.A. Silver (2013). Windows to the soul: vision science as a tool for studying biological mechanisms of  information processing deficits in schizophrenia. *Frontiers in Psychopathology*.  4:681 `pdf <http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=8883&articleId=56129&Version=1&ContentTypeId=21&FileName=fpsyg-04-00681.pdf>`_  
 
