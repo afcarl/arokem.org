@@ -1,5 +1,9 @@
 News
 ====
+December 2013
+        New article implementing a method to denoise task-based fMRI out in
+	`Frontiers in Brain Imaging Methods <http://www.frontiersin.org/Brain_Imaging_Methods/10.3389/fnins.2013.00247/abstract>`_
+
 October 2013
         New article about sex differences in sleep-dependent perceptual
 	learning out in `Vision Research <http://www.sciencedirect.com/science/article/pii/S0042698913002447>`_
