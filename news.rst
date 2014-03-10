@@ -3,11 +3,15 @@ News
 May 2014
      Symposium at VSS: `The visual white matter matters. <http://marcovaldo.stanford.edu/service/conferences-workshops-and-symposia/vwmm/>`_
 
+February 2014
+       New paper about dipy appears in `Frontiers in Neuroinformatics <http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00008/abstract>`_ 
+     
 January 2014
 	Version 0.7 of `dipy`__ released.
 
 __ dipy_
 
+.. stop-recent-news
 
 December 2013
         New article implementing a method to denoise task-based fMRI out in
@@ -22,7 +26,6 @@ September 2013
 	schizophrenia, out in `Frontiers in Psychopathology <http://www.frontiersin.org/Psychopathology/10.3389/fpsyg.2013.00681/abstract>`_
 
 
-.. stop-recent-news
 
 May 2013
 	New paper modeling fMRI responses in visual cortex out in `PLoS Computational Biology <http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003079>`_
