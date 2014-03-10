@@ -3,6 +3,12 @@ News
 May 2014
      Symposium at VSS: `The visual white matter matters. <http://marcovaldo.stanford.edu/service/conferences-workshops-and-symposia/vwmm/>`_
 
+January 2014
+	Version 0.7 of `dipy`__ released.
+
+__ dipy_
+
+
 December 2013
         New article implementing a method to denoise task-based fMRI out in
 	`Frontiers in Brain Imaging Methods <http://www.frontiersin.org/Brain_Imaging_Methods/10.3389/fnins.2013.00247/abstract>`_
