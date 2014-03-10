@@ -4,17 +4,35 @@
 Publications
 ============
 
-#. E. Garyfallidis, M. Brett, B. Amirbekian, **A. Rokem**, S. van der Walt, M. Descoteaux, I.Nimmo-Smith and Dipy Contributors (2014). Dipy, a library for the analysis of diffusion MRI data. *Frontiers in Neuroinformatics* 8:8. `link <http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00008/abstract>`_
+#. E. Garyfallidis, M. Brett, B. Amirbekian, **A. Rokem**, S. van der Walt,
+   M. Descoteaux, I. Nimmo-Smith and Dipy Contributors (2014). Dipy, a library
+   for the analysis of diffusion MRI data. *Frontiers in Neuroinformatics*
+   8:8. `link
+   <http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00008/abstract>`_
 
-#. K.N. Kay, **A. Rokem**, J. Winawer, R.F. Dougherty B.A Wandell (2013). GLMdenoise: a fast, automated technique for denoising task-based fMRI  data. *Frontiers in Brain Imaging Methods* 7:247. `link <http://journal.frontiersin.org/Journal/10.3389/fnins.2013.00247/abstract>`_
+#. K.N. Kay, **A. Rokem**, J. Winawer, R.F. Dougherty B.A Wandell
+   (2013). GLMdenoise: a fast, automated technique for denoising task-based
+   fMRI data. *Frontiers in Brain Imaging Methods* 7:247. `link
+   <http://journal.frontiersin.org/Journal/10.3389/fnins.2013.00247/abstract>`_
 
-#. E.A. McDevitt\*, **A. Rokem**\* (\* equal contributors), M.A. Silver, and S.C. Mednick (*in press*). Sex differences in sleep-dependent perceptual learning. *Vision Research*. `pdf <papers/McDevittRokem2013Naps.pdf>`_ 
+#. E.A. McDevitt\*, **A. Rokem**\* (\* equal contributors), M.A. Silver, and
+   S.C. Mednick (*in press*). Sex differences in sleep-dependent perceptual
+   learning. *Vision Research*. `pdf <papers/McDevittRokem2013Naps.pdf>`_
 
-#. J.H. Yoon, S.L. Sheremata, **A. Rokem**, and M.A. Silver (2013). Windows to the soul: vision science as a tool for studying biological mechanisms of  information processing deficits in schizophrenia. *Frontiers in Psychopathology*.  4:681 `pdf <http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=8883&articleId=56129&Version=1&ContentTypeId=21&FileName=fpsyg-04-00681.pdf>`_  
+#. J.H. Yoon, S.L. Sheremata, **A. Rokem**, and M.A. Silver (2013). Windows to
+   the soul: vision science as a tool for studying biological mechanisms of
+   information processing deficits in schizophrenia. *Frontiers in
+   Psychopathology*.  4:681 `pdf
+   <http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=8883&articleId=56129&Version=1&ContentTypeId=21&FileName=fpsyg-04-00681.pdf>`_
 
-#. K.N. Kay, J. Winawer, **A. Rokem**, A. Mezer and B.A. Wandell (2013) A Two-Stage Cascade Model of BOLD Responses in Human Visual Cortex. *PLoS Computational Biology* 9: e1003079. `pdf <papers/Kay2013SOC.pdf>`_
+#. K.N. Kay, J. Winawer, **A. Rokem**, A. Mezer and B.A. Wandell (2013) A
+   Two-Stage Cascade Model of BOLD Responses in Human Visual Cortex. *PLoS
+   Computational Biology* 9: e1003079. `pdf <papers/Kay2013SOC.pdf>`_
 
-#. **A. Rokem** and M.A. Silver (2013). The benefits of cholinergic enhancement during perceptual learning are long-lasting. *Frontiers in Computational Neuroscience*: 7:66 `link <http://journal.frontiersin.org/Journal/10.3389/fncom.2013.00066/full>`_
+#. **A. Rokem** and M.A. Silver (2013). The benefits of cholinergic enhancement
+   during perceptual learning are long-lasting. *Frontiers in Computational
+   Neuroscience*: 7:66 `link
+   <http://journal.frontiersin.org/Journal/10.3389/fncom.2013.00066/full>`_
 	
 #. A.A. Kosovicheva, S.L. Sheremata, **A. Rokem**, A.N. Landau, and
    M.A. Silver(2012). Cholinergic enhancement reduces orientation-specific
