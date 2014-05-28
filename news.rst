@@ -1,7 +1,12 @@
 News
 ====
 May 2014
-     Symposium at VSS: `The visual white matter matters. <http://marcovaldo.stanford.edu/service/conferences-workshops-and-symposia/vwmm/>`_
+     Version 0.3 of the `pymatbridge`__ released
+     
+__ pymatbridge_
+   
+May 2014
+     Symposium at VSS: `The visual white matter matters. <https://talks.stanford.edu/psychology/vss-2014-symposia-the-visual-white-matter-matters/>`_
 
 February 2014
        New paper about dipy appears in `Frontiers in Neuroinformatics <http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00008/abstract>`_ 
