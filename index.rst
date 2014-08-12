@@ -18,14 +18,7 @@ __ vista_
    code/index
    contact/index
    news
-   `blog`__
 
-__ blog_
-
-Am I `busy`__? 
-
-__ calendar_
-  
 .. include:: news.rst
    :end-before: stop-recent-news
 
