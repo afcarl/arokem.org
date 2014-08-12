@@ -1,5 +1,10 @@
 News
 ====
+August 2014
+     New version of my `blog`__  is up.
+
+__ blog_
+
 May 2014
      Version 0.3 of the `pymatbridge`__ released
      
