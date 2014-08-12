@@ -18,6 +18,9 @@ __ vista_
    code/index
    contact/index
    news
+   `blog`__
+
+__ blog_
 
 Am I `busy`__? 
 
