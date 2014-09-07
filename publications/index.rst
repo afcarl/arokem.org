@@ -4,6 +4,9 @@
 Publications
 ============
 
+#. F. Pestilli, J. Yeatman, **A. Rokem**, K. Kay, B.A. Wandell
+   (2014). *Nature Methods*
+
 #. E. Garyfallidis, M. Brett, B. Amirbekian, **A. Rokem**, S. van der Walt,
    M. Descoteaux, I. Nimmo-Smith and Dipy Contributors (2014). Dipy, a library
    for the analysis of diffusion MRI data. *Frontiers in Neuroinformatics*
