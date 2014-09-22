@@ -1,5 +1,10 @@
 News
 ====
+September 2014
+   New paper about statistical inference in human connectomes appears in
+   `Nature Methods <http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.3098.html>`_.
+   See also my `talk about the method <http://talks.stanford.edu/ariel-rokem-measuring-and-modeling-of-diffusion-and-white-matter-tracts/>`_.
+   
 August 2014
      New version of my `blog`__  is up.
 

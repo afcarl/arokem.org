@@ -4,8 +4,14 @@
 Publications
 ============
 
+#. C. Zheng, F. Pestilli, **A. Rokem**
+   (2014). Deconvolution of High Dimensional Mixtures via Boosting, with
+   Application to Diffusion-Weighted MRI of Human Brain.
+   *Forthcoming in: Advances in Neural Information Processing 27 (NIPS 2014).*    
+
 #. F. Pestilli, J. Yeatman, **A. Rokem**, K. Kay, B.A. Wandell
-   (2014). *Nature Methods*
+   (2014). Evaluation and statistical inference for human connectomes. *Nature
+   Methods* `pdf <papers/Pestilli2014LiFE.pdf>`_ , `supplement <papers/Pestilli2014LiFESupplement.pdf>`_ 
 
 #. E. Garyfallidis, M. Brett, B. Amirbekian, **A. Rokem**, S. van der Walt,
    M. Descoteaux, I. Nimmo-Smith and Dipy Contributors (2014). Dipy, a library
@@ -84,7 +90,7 @@ Publications
 
 #. H. Eyherabide, **A. Rokem**, A.V.M. Herz, I. Samengo (2009) Bursts generate
    a non-reducible spike-pattern code. *Frontiers in Neuroscience* 3: 8-14.
-   `pdf <papers/Eyerhabide2009BurstsReview.pdf>`_ 
+   `pdf <papers/Eyherabide2009BurstsReview.pdf>`_ 
    
 #. **A. Rokem** and M. Ahissar (2009) Interactions of cognitive and
    auditory abilities in congenitally blind individuals. *Neuropsychologia*
@@ -93,7 +99,7 @@ Publications
 #. H.G. Eyherabide, **A. Rokem**, A.V.M. Herz and I. Samengo
    (2008). Burst Firing as a Neural Code in an Insect Auditory System.
    *Frontiers in Computational Neuroscience* 2:3.
-   `pdf <papers/Eyerhabide2008Bursts.pdf>`_
+   `pdf <papers/Eyherabide2008Bursts.pdf>`_
    
 #. **A. Rokem**, S. Watzl, T. Gollisch, M. Stemmler, A.V.M. Herz and I. Samengo
    (2006). Spike-Timing Precision Underlies the Coding Efficiency of Auditory
