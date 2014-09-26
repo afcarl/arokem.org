@@ -10,7 +10,11 @@ Copy data files to final html directory.
 #-----------------------------------------------------------------------------
 from __future__ import print_function
 
-import __builtin__
+try:
+    import __builtin__ as builtins
+except:
+    import builtins
+    
 import os
 import sys
 
@@ -22,7 +26,9 @@ from os.path import join as pjoin
 
 # From sphinx conf.py
 sphinx_conf = {}
-execfile('conf.py',{},sphinx_conf)
+
+exec(open('conf.py').read(),{},sphinx_conf)
+
 
 # Local
 verbose = False
@@ -53,7 +59,7 @@ top_files = ['links.txt']
 def print(*args, **kw):
     verb = kw.pop('verbose', verbose)
     if verb:
-        __builtin__.print(*args, **kw)
+        builtins.print(*args, **kw)
 
 
 def keep_filename(f, skip_ext=skip_extensions):

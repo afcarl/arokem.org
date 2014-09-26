@@ -4,10 +4,13 @@
 Publications
 ============
 
+
+
 #. C. Zheng, F. Pestilli, **A. Rokem**
    (2014). Deconvolution of High Dimensional Mixtures via Boosting, with
    Application to Diffusion-Weighted MRI of Human Brain.
-   *Forthcoming in: Advances in Neural Information Processing 27 (NIPS 2014).*    
+   *Forthcoming in: Advances in Neural Information Processing 27 (NIPS 2014).*
+   `pdf <http://arxiv.org/abs/1409.7134>`_.
 
 #. F. Pestilli, J. Yeatman, **A. Rokem**, K. Kay, B.A. Wandell
    (2014). Evaluation and statistical inference for human connectomes. *Nature

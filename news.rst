@@ -1,8 +1,8 @@
 News
 ====
 September 2014
-    New paper introducing a new algorithm for analysis of diffusion MRI,
-    accepted for NIPS2014. Preprint at `arXiv <http://arxiv.org/abs/1409.7134>`_. 
+    New paper introducing an algorithm for analysis of diffusion MRI,
+    accepted at `NIPS2014 <http://nips.cc/Conferences/2014/>`_. Preprint at `arXiv <http://arxiv.org/abs/1409.7134>`_. 
 
 September 2014
    New paper about statistical inference in human connectomes appears in

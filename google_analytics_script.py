@@ -30,7 +30,11 @@ def insert_g_analytics(fname):
     text in there. 
     
     """
-    ff = file(fname, 'r')
+    try:
+        ff = file(fname, 'r')
+    except:
+        ff = open(fname, 'r')
+        
     # Get the text in there:
     ll = ff.readlines()
     ff.close()
@@ -43,7 +47,10 @@ def insert_g_analytics(fname):
     # Only if this is possible: 
     if this_idx:
         ll = ll[:this_idx] + [google_analytics_txt] + ll[this_idx:]
-        ff = file(fname, 'w')
+        try:
+            ff = file(fname, 'w')
+        except:
+            ff = open(fname, 'w')
         ff.writelines(ll)
         ff.close()
 
