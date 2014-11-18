@@ -1,5 +1,10 @@
 News
 ====
+November 2014
+    New paper on the history and rediscovery of the Vertical Occipital
+    Fasciculus out in
+    `PNAS <http://www.pnas.org/content/early/2014/11/13/1418503111>`_.
+
 September 2014
     New paper introducing an algorithm for analysis of diffusion MRI,
     accepted at `NIPS2014 <http://nips.cc/Conferences/2014/>`_. Preprint at `arXiv <http://arxiv.org/abs/1409.7134>`_. 

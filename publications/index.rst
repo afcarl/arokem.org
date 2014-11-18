@@ -4,7 +4,7 @@
 Publications
 ============
 
-
+#.  J. Yeatman, K.S. Weiner, F. Pestilli, **A. Rokem**, A. Mezer, B.A. Wandell (2014). The vertical occipital fasciculus: A century of controversy resolved by in vivo measurements. *PNAS* , *in press* .  `pdf <papers/Yeatman2014VOF.pdf>`_.
 
 #. C. Zheng, F. Pestilli, **A. Rokem**
    (2014). Deconvolution of High Dimensional Mixtures via Boosting, with
@@ -58,7 +58,7 @@ Publications
 
 #. **A. Rokem**, J.H. Yoon, R.E. Ooms, R.J. Maddock, M. J. Minzenberg and
    M.A. Silver (2011). Broader visual orientation tuning in patients with
-   schizophrenia. *Frontiers in Human Neuroscience* 5: 127 `pdf <papers/Rokem2011OT.pdf>`_  
+   schizophrenia. *Frontiers in Human Neuroscience* 5: 127 `pdf <papers/Rokem2011OTFIHN.pdf>`_  
 
 #. **A. Rokem** and M.A. Silver (2010) Cholinergic enhancement augments
    magnitude and specificity of visual perceptual learning in healthy humans.
