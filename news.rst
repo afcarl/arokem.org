@@ -1,5 +1,14 @@
 News
 ====
+January 2015
+    Version 0.8 of `dipy`__ released.
+
+__ dipy_
+
+November 2014
+    Paper on error estimation in diffusion MRI accepted for an oral
+    presentation at NIPS 2014 OTML workshop. Find the paper `here <http://arxiv.org/abs/1411.5271>`_.
+
 November 2014
     New paper on the history and rediscovery of the Vertical Occipital
     Fasciculus out in
@@ -13,7 +22,9 @@ September 2014
    New paper about statistical inference in human connectomes appears in
    `Nature Methods <http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.3098.html>`_.
    See also my `talk about the method <http://talks.stanford.edu/ariel-rokem-measuring-and-modeling-of-diffusion-and-white-matter-tracts/>`_.
-   
+
+.. stop-recent-news
+
 August 2014
      New version of my `blog`__  is up.
 

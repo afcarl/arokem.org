@@ -4,7 +4,13 @@
 Publications
 ============
 
-#.  J. Yeatman, K.S. Weiner, F. Pestilli, **A. Rokem**, A. Mezer, B.A. Wandell (2014). The vertical occipital fasciculus: A century of controversy resolved by in vivo measurements. *PNAS* , *in press* .  `pdf <papers/Yeatman2014VOF.pdf>`_.
+#.  C. Zheng, F. Pestilli, **A. Rokem** (2014). Quantifying error in estimates
+    of human brain fiber directions using Earth Mover's Distance. *NIPS OTML
+    workshop 2014*. `pdf <http://arxiv.org/pdf/1411.5271v1>`_. 
+
+#.  J. Yeatman, K.S. Weiner, F. Pestilli, **A. Rokem**, A. Mezer, B.A. Wandell
+    (2014). The vertical occipital fasciculus: A century of controversy resolved
+    by in vivo measurements. *PNAS* , 111:E5214–E5223. `pdf <papers/Yeatman2014VOF.pdf>`_. 
 
 #. C. Zheng, F. Pestilli, **A. Rokem**
    (2014). Deconvolution of High Dimensional Mixtures via Boosting, with
@@ -28,8 +34,8 @@ Publications
    <http://journal.frontiersin.org/Journal/10.3389/fnins.2013.00247/abstract>`_
 
 #. E.A. McDevitt\*, **A. Rokem**\* (\* equal contributors), M.A. Silver, and
-   S.C. Mednick (*in press*). Sex differences in sleep-dependent perceptual
-   learning. *Vision Research*. `pdf <papers/McDevittRokem2013Naps.pdf>`_
+   S.C. Mednick (2014). Sex differences in sleep-dependent perceptual
+   learning. *Vision Research* 99:172-179. `pdf <papers/McDevittRokem2013Naps.pdf>`_
 
 #. J.H. Yoon, S.L. Sheremata, **A. Rokem**, and M.A. Silver (2013). Windows to
    the soul: vision science as a tool for studying biological mechanisms of
@@ -54,7 +60,7 @@ Publications
 #. **A. Rokem**, A. Landau, W. Prinzmetal, D. Wallace, M.A. Silver and
    M. D'Esposito (2012). Modulation of inhibition of return by the dopamine
    D2 receptor agonist bromocriptine depends on individual DAT1 genotype.
-   *Cerebral Cortex*  22: 1133-8. `pdf <papers/Rokem2011DopamineIOR.pdf>`_	     
+   *Cerebral Cortex*  22: 1133-8. `pdf <papers/Rokem2012CerCor.pdf>`_	     
 
 #. **A. Rokem**, J.H. Yoon, R.E. Ooms, R.J. Maddock, M. J. Minzenberg and
    M.A. Silver (2011). Broader visual orientation tuning in patients with
