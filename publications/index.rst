@@ -33,9 +33,9 @@ Publications
    fMRI data. *Frontiers in Brain Imaging Methods* 7:247. `link
    <http://journal.frontiersin.org/Journal/10.3389/fnins.2013.00247/abstract>`_
 
-#. E.A. McDevitt\*, **A. Rokem**\* (\* equal contributors), M.A. Silver, and
+#. E.A. McDevitt\*, **A. Rokem**\*, M.A. Silver, and
    S.C. Mednick (2014). Sex differences in sleep-dependent perceptual
-   learning. *Vision Research* 99:172-179. `pdf <papers/McDevittRokem2013Naps.pdf>`_
+   learning. *Vision Research* 99:172-179. `pdf <papers/McDevittRokem2013Naps.pdf>`_ (\* equal contributors)
 
 #. J.H. Yoon, S.L. Sheremata, **A. Rokem**, and M.A. Silver (2013). Windows to
    the soul: vision science as a tool for studying biological mechanisms of
