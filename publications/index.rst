@@ -3,6 +3,7 @@
 ============
 Publications
 ============
+#.  B.A. Wandell, **A. Rokem**, L.M. Perry, G. Schaefer, R.F. Dougherty (2015). Data management to support reproducible research. arXiv 1502.06900. `pdf <http://arxiv.org/pdf/1502.06900v1.pdf>`_ 
 
 #.  C. Zheng, F. Pestilli, **A. Rokem** (2014). Quantifying error in estimates
     of human brain fiber directions using Earth Mover's Distance. *NIPS OTML

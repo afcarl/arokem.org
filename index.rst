@@ -2,12 +2,9 @@
 Welcome!
 ========
     
-I am a post-doctoral researcher at the `Department of Psychology`__ at
-`Stanford University`__, working with `Prof. Brian Wandell`__. 
+I am a data scientist at the `University of Washington eScience Institute`__
 
-__ psych_
-__ stanford_
-__ vista_
+__ escience_
 
 .. toctree::
    :maxdepth: 1

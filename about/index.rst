@@ -9,7 +9,9 @@ Research experience
 -------------------
    ===========    ===============================================================
 
-   2011 -            Postdoctoral researcher, the Department of Psychology, Stanford University, laboratory of `Brian Wandell`__.  Diffusion imaging, fMRI, and computational modeling studies of the human visual system.
+   2015 -           Data scientist at the `University of Washington eScience Institute`__.
+
+   2011 - 2015    Postdoctoral researcher, the Department of Psychology, Stanford University, laboratory of `Brian Wandell`__.  Diffusion imaging, fMRI, and computational modeling studies of the human visual system.
 
    2005 - 2010	  Graduate student and postdoctoral researcher, Helen Wills
                   Neuroscience Institute, University of California, Berkeley,
@@ -30,6 +32,7 @@ Research experience
                   grasshopper auditory receptor neurons.
    ===========    ===============================================================
 
+   __ escience_
    __ vista_
    __ silverlab_
    __ merav_

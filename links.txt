@@ -8,6 +8,9 @@
 .. _calendar: https://www.google.com/calendar/embed?src=arokem%40gmail.com&ctz=America/Los_Angeles
 .. _blog: http://arokem.github.io
 
+.. UW
+.. _escience: http://escience.washington.edu
+
 .. Berkeley
 .. _hwni: http://neuroscience.berkeley.edu
 .. _silverlab: http://argentum.ucbso.berkeley.edu

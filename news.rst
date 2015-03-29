@@ -1,9 +1,14 @@
 News
 ====
+February 2015
+    New preprint on data management for reproducible research on `arXiv <http://arxiv.org/pdf/1502.06900v1.pdf>`_. 
+
 January 2015
     Version 0.8 of `dipy`__ released.
 
 __ dipy_
+
+.. stop-recent-news
 
 November 2014
     Paper on error estimation in diffusion MRI accepted for an oral
@@ -22,8 +27,6 @@ September 2014
    New paper about statistical inference in human connectomes appears in
    `Nature Methods <http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.3098.html>`_.
    See also my `talk about the method <http://talks.stanford.edu/ariel-rokem-measuring-and-modeling-of-diffusion-and-white-matter-tracts/>`_.
-
-.. stop-recent-news
 
 August 2014
      New version of my `blog`__  is up.
