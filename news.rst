@@ -1,14 +1,27 @@
 News
 ====
+April 2015
+    New paper on statistical modeling and evaluation of human white matter
+    diffusion MRI in `PLoS One <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123272>`_.
+
+April 2015
+    New paper out on anatomical connections between the ventral and dorsal
+    visual streams in `Cerebral Cortex <http://cercor.oxfordjournals.org/cgi/content/abstract/bhv064?ijkey=zqUHhLdo8XuWRbZ&keytype=ref>`_.
+
+March 2015
+    Version 0.9 of `dipy`__ released.
+
+__ dipy_
+
 February 2015
     New preprint on data management for reproducible research on `arXiv <http://arxiv.org/pdf/1502.06900v1.pdf>`_. 
+
+.. stop-recent-news
 
 January 2015
     Version 0.8 of `dipy`__ released.
 
 __ dipy_
-
-.. stop-recent-news
 
 November 2014
     Paper on error estimation in diffusion MRI accepted for an oral
