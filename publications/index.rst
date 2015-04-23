@@ -5,13 +5,13 @@ Publications
 ============
 #. **A. Rokem**,  J. Yeatman, F. Pestilli, K.N. Kay, A. Mezer, S. van der Walt,
    B.A. Wandell (2015). Evaluating the accuracy of diffusion MRI models in white
-   matter. PLoS One. DOI: 10.1371/journal.pone.0123272. `pdf <http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0123272&representation=PDF>`_.
+   matter. *PLoS One*, DOI: 10.1371/journal.pone.0123272. `pdf <http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0123272&representation=PDF>`_.
 
 #.  H. Takemura, **A. Rokem**, J. Winawer, J.D. Yeatman, B.A. Wandell,
     F. Pestilli (2015)  A Major Human White Matter Pathway Between Dorsal and
-    Ventral Visual Cortex. Cerebral Cortex. DOI: 10.1093/cercor/bhv064 `pdf <papers/Takemura2015VOF.pdf>`_. 
+    Ventral Visual Cortex. *Cerebral Cortex*, DOI: 10.1093/cercor/bhv064 `pdf <papers/Takemura2015VOF.pdf>`_. 
 
-#.  B.A. Wandell, **A. Rokem**, L.M. Perry, G. Schaefer, R.F. Dougherty (2015). Data management to support reproducible research. arXiv 1502.06900. `pdf <http://arxiv.org/pdf/1502.06900v1.pdf>`_ 
+#.  B.A. Wandell, **A. Rokem**, L.M. Perry, G. Schaefer, R.F. Dougherty (2015). Data management to support reproducible research. *arXiv* 1502.06900. `pdf <http://arxiv.org/pdf/1502.06900v1.pdf>`_ 
 
 #.  C. Zheng, F. Pestilli, **A. Rokem** (2014). Quantifying error in estimates
     of human brain fiber directions using Earth Mover's Distance. *NIPS OTML
