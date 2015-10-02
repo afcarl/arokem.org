@@ -1,7 +1,7 @@
 News
 ====
 September 2015
-    New paper about the eScience Institute Data Science of Social Good summer program presented at the `Bloomberg Data for Good Exchange <http://www.bloomberg.com/company/d4gx/>`_ , now available to download `here <arokem.github.io/2015-Bloomberg-DS4GX/Edu_Rokem_47.pdf>`_. Slides for the talk can be found `here <http://arokem.github.io/2015-Bloomberg-DS4GX/#/>`_ 
+    New paper about the eScience Institute Data Science of Social Good summer program presented at the `Bloomberg Data for Good Exchange <http://www.bloomberg.com/company/d4gx/>`_ , now available to download `here <http://arokem.github.io/2015-Bloomberg-DS4GX/Edu_Rokem_47.pdf>`_. Slides for the talk can be found `here <http://arokem.github.io/2015-Bloomberg-DS4GX/#/>`_ 
 
 April 2015
     New paper on statistical modeling and evaluation of human white matter
