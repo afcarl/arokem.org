@@ -5,21 +5,21 @@ Publications
 ============
 #. **A. Rokem**,  J. Yeatman, F. Pestilli, K.N. Kay, A. Mezer, S. van der Walt,
    B.A. Wandell (2015). Evaluating the accuracy of diffusion MRI models in white
-   matter. *PLoS One*, DOI: 10.1371/journal.pone.0123272. `pdf <http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0123272&representation=PDF>`_.
+   matter. *PLoS One*, DOI: 10.1371/journal.pone.0123272. `pdf <papers/Rokem2015DWImodels.pdf>`_.
 
 #.  H. Takemura, **A. Rokem**, J. Winawer, J.D. Yeatman, B.A. Wandell,
     F. Pestilli (2015)  A Major Human White Matter Pathway Between Dorsal and
-    Ventral Visual Cortex. *Cerebral Cortex*, DOI: 10.1093/cercor/bhv064 `pdf <papers/Takemura2015VOF.pdf>`_. 
+    Ventral Visual Cortex. *Cerebral Cortex*, DOI: 10.1093/cercor/bhv064 `pdf <papers/Takemura2015VOF.pdf>`_.
 
-#.  B.A. Wandell, **A. Rokem**, L.M. Perry, G. Schaefer, R.F. Dougherty (2015). Data management to support reproducible research. *arXiv* 1502.06900. `pdf <http://arxiv.org/pdf/1502.06900v1.pdf>`_ 
+#.  B.A. Wandell, **A. Rokem**, L.M. Perry, G. Schaefer, R.F. Dougherty (2015). Data management to support reproducible research. *arXiv* 1502.06900. `pdf <http://arxiv.org/pdf/1502.06900v1.pdf>`_
 
 #.  C. Zheng, F. Pestilli, **A. Rokem** (2014). Quantifying error in estimates
     of human brain fiber directions using Earth Mover's Distance. *NIPS OTML
-    workshop 2014*. `pdf <http://arxiv.org/pdf/1411.5271v1>`_. 
+    workshop 2014*. `pdf <http://arxiv.org/pdf/1411.5271v1>`_.
 
 #.  J. Yeatman, K.S. Weiner, F. Pestilli, **A. Rokem**, A. Mezer, B.A. Wandell
     (2014). The vertical occipital fasciculus: A century of controversy resolved
-    by in vivo measurements. *PNAS* , 111:E5214–E5223. `pdf <papers/Yeatman2014VOF.pdf>`_. 
+    by in vivo measurements. *PNAS* , 111:E5214–E5223. `pdf <papers/Yeatman2014VOF.pdf>`_.
 
 #. C. Zheng, F. Pestilli, **A. Rokem**
    (2014). Deconvolution of High Dimensional Mixtures via Boosting, with
@@ -29,7 +29,7 @@ Publications
 
 #. F. Pestilli, J. Yeatman, **A. Rokem**, K. Kay, B.A. Wandell
    (2014). Evaluation and statistical inference for human connectomes. *Nature
-   Methods* `pdf <papers/Pestilli2014LiFE.pdf>`_ , `supplement <papers/Pestilli2014LiFESupplement.pdf>`_ 
+   Methods* `pdf <papers/Pestilli2014LiFE.pdf>`_ , `supplement <papers/Pestilli2014LiFESupplement.pdf>`_
 
 #. E. Garyfallidis, M. Brett, B. Amirbekian, **A. Rokem**, S. van der Walt,
    M. Descoteaux, I. Nimmo-Smith and Dipy Contributors (2014). Dipy, a library
@@ -60,7 +60,7 @@ Publications
    during perceptual learning are long-lasting. *Frontiers in Computational
    Neuroscience*: 7:66 `link
    <http://journal.frontiersin.org/Journal/10.3389/fncom.2013.00066/full>`_
-	
+
 #. A.A. Kosovicheva, S.L. Sheremata, **A. Rokem**, A.N. Landau, and
    M.A. Silver(2012). Cholinergic enhancement reduces orientation-specific
    surround suppression but not visual crowding. *Frontiers in Behavioral
@@ -69,38 +69,38 @@ Publications
 #. **A. Rokem**, A. Landau, W. Prinzmetal, D. Wallace, M.A. Silver and
    M. D'Esposito (2012). Modulation of inhibition of return by the dopamine
    D2 receptor agonist bromocriptine depends on individual DAT1 genotype.
-   *Cerebral Cortex*  22: 1133-8. `pdf <papers/Rokem2012CerCor.pdf>`_	     
+   *Cerebral Cortex*  22: 1133-8. `pdf <papers/Rokem2012CerCor.pdf>`_
 
 #. **A. Rokem**, J.H. Yoon, R.E. Ooms, R.J. Maddock, M. J. Minzenberg and
    M.A. Silver (2011). Broader visual orientation tuning in patients with
-   schizophrenia. *Frontiers in Human Neuroscience* 5: 127 `pdf <papers/Rokem2011OTFIHN.pdf>`_  
+   schizophrenia. *Frontiers in Human Neuroscience* 5: 127 `pdf <papers/Rokem2011OTFIHN.pdf>`_
 
 #. **A. Rokem** and M.A. Silver (2010) Cholinergic enhancement augments
    magnitude and specificity of visual perceptual learning in healthy humans.
    *Current Biology* 20: 1723-1728 `pdf <papers/Rokem2010PL.pdf>`_;
-   `supplementary materials <papers/Rokem2010PL_supp.pdf>`_  
+   `supplementary materials <papers/Rokem2010PL_supp.pdf>`_
 
 #. **A. Rokem**, A. N. Landau, D. Garg, W. Prinzmetal and M.A. Silver (2010).
    Effects of cholinergic enhancement on voluntary and involuntary visual spatia
    attention in healthy humans. *Neuropsychopharmacology* 35: 2538-44.
-   `pdf <papers/Rokem2010AntiQ.pdf>`_	
+   `pdf <papers/Rokem2010AntiQ.pdf>`_
 
 #. J.H. Yoon, R.J. Maddock, **A. Rokem**, M.A. Silver, M.J. Minzenberg,
    J.D. Ragland and C.S. Carter (2010). Gamma-aminobutyric acid concentration is
    reduced in visual cortex in schizophrenia and correlates with
    orientation-specific surround suppression. *Journal of Neuroscience*
    30:3777-3781. `pdf <papers/Yoon2010SS_MRS.pdf>`_
-  
+
 #. **A. Rokem**, M. Trumpis and F. Perez (2009). Nitime: time-series analysis
    for neuroimaging data. In *Proceedings of the 8th Python in Science
-   Conference* (SciPy 2009) G. Varoquaux, S. van der Walt, J. Millman (Eds.)  
+   Conference* (SciPy 2009) G. Varoquaux, S. van der Walt, J. Millman (Eds.)
    `pdf <papers/Rokem2009Nitime.pdf>`_
-   
+
 #. J. Yoon, **A. Rokem**, M.A. Silver, M.J. Minzenberg and C.S. Carter
    (2009). Diminished Orientation-Specific Contextual Modulation of Visual
    Processing in Schizophrenia. *Schizophrenia Bulletin* 35: 1078-84
    `pdf <papers/Yoon2009OSSS.pdf>`_
-   
+
 #. **A. Rokem** and M.A. Silver (2009) A model of encoding and decoding in V1
    and MT accounts accounts for motion perception anisotropies in the human
    visual system. *Brain Research* 1299: 3-16.
@@ -108,8 +108,8 @@ Publications
 
 #. H. Eyherabide, **A. Rokem**, A.V.M. Herz, I. Samengo (2009) Bursts generate
    a non-reducible spike-pattern code. *Frontiers in Neuroscience* 3: 8-14.
-   `pdf <papers/Eyherabide2009BurstsReview.pdf>`_ 
-   
+   `pdf <papers/Eyherabide2009BurstsReview.pdf>`_
+
 #. **A. Rokem** and M. Ahissar (2009) Interactions of cognitive and
    auditory abilities in congenitally blind individuals. *Neuropsychologia*
    47:843-8. `pdf <papers/Rokem2009Blind.pdf>`_
@@ -118,10 +118,10 @@ Publications
    (2008). Burst Firing as a Neural Code in an Insect Auditory System.
    *Frontiers in Computational Neuroscience* 2:3.
    `pdf <papers/Eyherabide2008Bursts.pdf>`_
-   
+
 #. **A. Rokem**, S. Watzl, T. Gollisch, M. Stemmler, A.V.M. Herz and I. Samengo
    (2006). Spike-Timing Precision Underlies the Coding Efficiency of Auditory
    Receptor Neurons. *The Journal of Neurophysiology* 95: 2541-2552.
    `pdf <papers/Rokem2006InfoJitter.pdf>`_
-   
+
 .. include:: links.txt

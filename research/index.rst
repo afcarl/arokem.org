@@ -4,25 +4,7 @@
  Research
 ==========
 
-The goal of my research is to elucidate the biological mechanisms underlying
-the computations performed by the human visual system. I aim to combine
-physiological and behavioral measurements, together with precise quantitative
-characterization and analysis to understand basic questions about the
-organization of the visual system in healthy and diseased states.
-
-The goal of my current research project is to characterize the neural substrate
-underlying differences between perception of the central and peripheral parts
-of the visual field. Important visual functions, such as reading, require
-central vision and clinical conditions, such as macular degeneration
-selectively affect this part of the visual field, conferring significant
-disability. I am focusing the investigation on the perception of boundaries
-between different textures. These boundaries are used in order to parse images
-into distinct regions and objects and perception of these boundaries differs
-between central and peripheral vision. These differences are likely to result
-from the manner in which information is processed in different parts of the
-visual field and the way in which information is transmitted through the visual
-system, via the anatomical connections between different regions of the visual
-system.
+I am interested in the biological basis of human cognition. In particular, I am interested in exploring the inferences that can be drawn from non-invasive measurements of human brains using magnetic resonance imaging (MRI) technologies. I am using statistical learning techniques in order to expand the scope of these inferences and improve their accuracy.
 
 
 Past research
@@ -30,6 +12,11 @@ Past research
 
 The following projects are organized in reverse chronological order, starting
 from the most recent.
+
+Anatomical structure of the human visual system
+-----------------------------------------------
+In my postdoctoral research, I continued to study the human visual system. The projects I worked on combined measurements of multiple aspects of human brain structure and function with MRI. The scope of these studies ranged from statistical analysis of models of the human white matter, through analysis of human brain neurochemistry with magnetic resonance spectroscopy, and the delineation of specific white matter pathways connecting different parts of the human visual cortex.
+
 
 Neurochemistry of perception, attention and learning
 ----------------------------------------------------
