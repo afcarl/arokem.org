@@ -1,5 +1,8 @@
 News
 ====
+October 2015
+    New paper about visual system connections in individuals with `blind-sight <https://en.wikipedia.org/wiki/Blindsight>`_, now out at `eLife <http://dx.doi.org/10.7554/eLife.08935>`_.
+
 September 2015
     New paper about the eScience Institute Data Science of Social Good summer program presented at the `Bloomberg Data for Good Exchange <http://www.bloomberg.com/company/d4gx/>`_ , now available to download `here <http://arokem.github.io/2015-Bloomberg-DS4GX/Edu_Rokem_47.pdf>`_. Slides for the talk can be found `here <http://arokem.github.io/2015-Bloomberg-DS4GX/#/>`_ 
 
