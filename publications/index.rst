@@ -3,6 +3,9 @@
 ============
 Publications
 ============
+
+See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
+
 #. Q. Tian, **A. Rokem**, R.D. Folkreth, A. Nummenmaa, F. Qiuyun, B.L. Edlow,
    J.A. McNab (2015). Postmortem diffusion spectrum imaging of whole, ex vivo
    human brains using 300 mT/m gradients: A study of effects of q-space
