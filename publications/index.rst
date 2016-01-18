@@ -3,6 +3,20 @@
 ============
 Publications
 ============
+#. Q. Tian, **A. Rokem**, R.D. Folkreth, A. Nummenmaa, F. Qiuyun, B.L. Edlow,
+   J.A. McNab (2015). Postmortem diffusion spectrum imaging of whole, ex vivo
+   human brains using 300 mT/m gradients: A study of effects of q-space
+   sampling. *Magnetic Resonance in Medicine*
+
+#. S. Ajina, F. Pestilli, **A. Rokem**, C. Kennard, H. Bridge (2015). Human
+   blindsight is mediated by an intact geniculo-extrastriate pathway. *eLife*
+   4:e08935, `pdf <http://elifesciences.org/content/elife/4/e08935.full.pdf>`_.
+
+#. **A. Rokem**, C. Aragon, A. Arendt, B. Fiore-Gartland, B. Hazelton,
+   J. Hellerstein, B. Herman, B. Howe, E. Lazowska, M. Parker, V. Staneva,
+   S. Stone, A, Tanweer, J. Vanderplas (2015). Building an urban data science
+   summer program at the University of Washington eScience Institute. *The Bloomberg Data Science 4 Good Exchange* `pdf <https://github.com/arokem/2015-Bloomberg-DS4GX/blob/gh-pages/Edu_Rokem_47.pdf>`_
+
 #. **A. Rokem**,  J. Yeatman, F. Pestilli, K.N. Kay, A. Mezer, S. van der Walt,
    B.A. Wandell (2015). Evaluating the accuracy of diffusion MRI models in white
    matter. *PLoS One*, DOI: 10.1371/journal.pone.0123272. `pdf <papers/Rokem2015DWImodels.pdf>`_.

@@ -12,9 +12,7 @@ __ escience_
    :maxdepth: 1
 
    about/index
-   research/index
    publications/index
-   code/index
    contact/index
    news
 
