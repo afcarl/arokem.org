@@ -6,10 +6,18 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
+    R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
+    Ramirez-Manzanares, J.L. Marroquin, **A. Rokem**, C. Pötter, R.F. Dougherty,
+    K. Sakaie, C. Wheeler-Kingshott, S.K. Warfield, T. Witzel, L.L. Wald, J.G.
+    Raya, D.C. Alexander (2016). Diffusion MRI microstructure models with in
+    vivo human brain Connectom data: results from a multi-group comparison. `pdf
+    <http://arxiv.org/pdf/1604.07287.pdf>`_.
+
 #. Q. Tian, **A. Rokem**, R.D. Folkreth, A. Nummenmaa, F. Qiuyun, B.L. Edlow,
    J.A. McNab (2015). Postmortem diffusion spectrum imaging of whole, ex vivo
    human brains using 300 mT/m gradients: A study of effects of q-space
-   sampling. *Magnetic Resonance in Medicine*
+   sampling. *Magnetic Resonance in Medicine* `pdf <papers/Tian2016QSpace.pdf>`_.
 
 #. S. Ajina, F. Pestilli, **A. Rokem**, C. Kennard, H. Bridge (2015). Human
    blindsight is mediated by an intact geniculo-extrastriate pathway. *eLife*
