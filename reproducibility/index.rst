@@ -23,6 +23,8 @@ Where to find my published work:
 
 - You can download PDF versions of my articles in :ref:`publications`
 
+- Several of my articles are available as preprints on `arXiv <http://arxiv.org/find/all/1/all:+rokem/0/1/0/all/0/1>`_.
+
 
 Open access publications
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,8 +83,6 @@ Publications in open access journals
    (2008). Burst Firing as a Neural Code in an Insect Auditory System.
    *Frontiers in Computational Neuroscience* 2:3.
    `pdf <papers/Eyherabide2008Bursts.pdf>`_
-
-Several of my articles are available as preprints on `arXiv <http://arxiv.org/find/all/1/all:+rokem/0/1/0/all/0/1>`_.
 
 
 Slide decks from talks that I have given

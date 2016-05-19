@@ -6,6 +6,14 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#.  K. Gorgolewski, R. Auer, , V. Calhoun, C. Craddock, S. Das, E. Duff, G.
+    Flandin, S. Ghosh, T. Glatard, Y. Halchenko, D. Handwerker, M. Hanke, D.
+    Keator, X. Li, S. Michael, C. Maumet, N.B. Nichols, T. Nichols J. Pellman,
+    J.B. Poline, **A. Rokem**, G. Schaefer, V. Sochat, W. Triplett, J. Turner,
+    G. Varoquaux, R. Poldrack (2016).
+    The Brain Imaging Data Structure, a format for organizing and describing
+    outputs of neuroimaging experiments *Scientific Data*
+
 #.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
     R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
     Ramirez-Manzanares, J.L. Marroquin, **A. Rokem**, C. Pötter, R.F. Dougherty,
