@@ -6,6 +6,10 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#.  A. Mezer, **A. Rokem**, S. Berman, T. Hastie, and B. A. Wandell (2016).
+    Evaluating quantitative proton-density-mapping methods.
+    *Human Brain Mapping*.
+
 #.  K. Gorgolewski, R. Auer, , V. Calhoun, C. Craddock, S. Das, E. Duff, G.
     Flandin, S. Ghosh, T. Glatard, Y. Halchenko, D. Handwerker, M. Hanke, D.
     Keator, X. Li, S. Michael, C. Maumet, N.B. Nichols, T. Nichols J. Pellman,
@@ -23,7 +27,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
     <http://arxiv.org/pdf/1604.07287.pdf>`_.
 
 #. Q. Tian, **A. Rokem**, R.D. Folkreth, A. Nummenmaa, F. Qiuyun, B.L. Edlow,
-   J.A. McNab (2015). Postmortem diffusion spectrum imaging of whole, ex vivo
+   J.A. McNab (2016). Postmortem diffusion spectrum imaging of whole, ex vivo
    human brains using 300 mT/m gradients: A study of effects of q-space
    sampling. *Magnetic Resonance in Medicine* `pdf <papers/Tian2016QSpace.pdf>`_.
 
