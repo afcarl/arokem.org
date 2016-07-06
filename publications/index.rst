@@ -8,7 +8,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
 
 #.  A. Mezer, **A. Rokem**, S. Berman, T. Hastie, and B. A. Wandell (2016).
     Evaluating quantitative proton-density-mapping methods.
-    *Human Brain Mapping*.
+    *Human Brain Mapping*. `pdf <papers/Mezer2016Coils.pdf>`_
 
 #.  K. Gorgolewski, R. Auer, , V. Calhoun, C. Craddock, S. Das, E. Duff, G.
     Flandin, S. Ghosh, T. Glatard, Y. Halchenko, D. Handwerker, M. Hanke, D.
@@ -16,7 +16,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
     J.B. Poline, **A. Rokem**, G. Schaefer, V. Sochat, W. Triplett, J. Turner,
     G. Varoquaux, R. Poldrack (2016).
     The Brain Imaging Data Structure, a format for organizing and describing
-    outputs of neuroimaging experiments *Scientific Data*
+    outputs of neuroimaging experiments *Scientific Data* `pdf <papers/BIDS.pdf>`_.
 
 #.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
     R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
