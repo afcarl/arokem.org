@@ -6,6 +6,11 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. **A. Rokem**, H. Takemura, A. Bock, K.S. Scherf, M. Behrmann, B.A. Wandell,
+   I. Fine, H. Bridge, F. Pestilli (2016). The visual white matter: The
+   application of diffusion MRI and fiber tractography to vision science.
+   `preprint <http://biorxiv.org/content/early/2016/09/02/072793>`_.
+
 #.  A. Mezer, **A. Rokem**, S. Berman, T. Hastie, and B. A. Wandell (2016).
     Evaluating quantitative proton-density-mapping methods.
     *Human Brain Mapping*. `pdf <papers/Mezer2016Coils.pdf>`_
