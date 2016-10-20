@@ -23,7 +23,7 @@ Where to find my published work:
 
 - You can download PDF versions of my articles in :ref:`publications`
 
-- Several of my articles are available as preprints on `arXiv <http://arxiv.org/find/all/1/all:+rokem/0/1/0/all/0/1>`_.
+- Several of my articles are available as preprints on `arXiv <http://arxiv.org/find/all/1/all:+rokem/0/1/0/all/0/1>`_ and `biorxiv <http://biorxiv.org/search/author1%3Arokem%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard>`_
 
 
 Open access publications
@@ -88,7 +88,9 @@ Publications in open access journals
 Slide decks from talks that I have given
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Talk about the eScience Institute at the `UW IT Techconnect conference <http://depts.washington.edu/learnit/techconnect/>`_: http://arokem.github.io/2016-03-24-techconnect/#1
+- Talk about `pulse2percept` incubator project -- models for retinal prosthetics: http://arokem.github.io/2016-03-27-pulse2percept
+
+- Talk about the eScience Institute at the `UW IT Techconnect conference <http://depts.washington.edu/learnit/techconnect/>`_: http://arokem.github.io/2016-03-24-techconnect/
 
 - "The elements of reproducible open science", talk given as a guest lecture at the `Open Science and Reproducible Research course at MSU <https://github.com/cbahlai/OSRR_course>`_ : http://arokem.github.io/2016-02-26-ros-seminar-msu/#/
 

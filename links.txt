@@ -10,6 +10,7 @@
 
 .. UW
 .. _escience: http://escience.washington.edu
+.. _escience: http://uwin.washington.edu
 
 .. Berkeley
 .. _hwni: http://neuroscience.berkeley.edu
