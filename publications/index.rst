@@ -6,10 +6,26 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. K. Desimone, **A. Rokem**, K. Schneider (2016). Popeye: a population
+   receptive field esimation tool. *Journal of Open Source Software*:
+   10.21105/joss.00103. `Paper <http://dx.doi.org/10.21105/joss.00103>`_.
+   `Software <http://kdesimone.github.io/popeye/>`_.
+
 #. **A. Rokem**, H. Takemura, A. Bock, K.S. Scherf, M. Behrmann, B.A. Wandell,
    I. Fine, H. Bridge, F. Pestilli (2016). The visual white matter: The
    application of diffusion MRI and fiber tractography to vision science.
    `preprint <http://biorxiv.org/content/early/2016/09/02/072793>`_.
+
+#. A. Ahmadia, J. Allen, P. Banaszkiewicz, E. Becker, T. Bekolay,
+   J. Blischak, A. Boughton, E. Bray, A. Cabunoc Mayes, S Crouch, N. Davis,
+   M. Davis, J. Duckles, R. Emonet, F.-A. Fortin, I. Gonzalez, C.Hamm, M.
+   Hansen, R. Harris, F. Henninger, K. Hinsen, A. Hodge, M. Jackson, W. T.
+   King, J. Kitzes, C. Koch, T. Liversidge, F. Michonneau, B. Mills, L.
+   Nederbragt, A. O’Leary, E. Patitsas, A. Pawlik, F. Perez, J. Pipitone, T.
+   Poisot, **A. Rokem**, R. Silva, T. Teal, T. Tröndle, F. Tweedie, J.-J. Vie,
+   J. Walker, A. Walsh, B. Weaver, E. White, C. Wilkerson, J. Williams, G.
+   Wilson, A. van der Walt (2016). Software carpentry: Instructor training.
+   `Link <https://doi.org/10.5281/zenodo.57571>`_.
 
 #.  A. Mezer, **A. Rokem**, S. Berman, T. Hastie, and B. A. Wandell (2016).
     Evaluating quantitative proton-density-mapping methods.
@@ -22,6 +38,17 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
     G. Varoquaux, R. Poldrack (2016).
     The Brain Imaging Data Structure, a format for organizing and describing
     outputs of neuroimaging experiments *Scientific Data* `pdf <papers/BIDS.pdf>`_.
+
+#.  R.C. Craddock, D.S. Margulies, P. Bellec, B.N. Nichols, S. Alcauter,
+    F.A. Barrios, Y. Burnod, C.J. Cannistraci, J. Cohen-Adad, B. De Leener, S.
+    Dery, J. Downar, K. Dunlop, A.R. Franco, C. S. Froehlich, A.J. Gerber,
+    S.S. Ghosh, T.J. Grabowski, S. Hill, A.S. Heinsfeld, R. M. Hutchison, P.
+    Kundu, A.R. Laird, S.-L. Liew, D.J. Lurie, D.G. McLaren, F. Meneguzzi, M.
+    Mennes, S. Mesmoudi, D. O’Connor, E.H. Pasaye, S. Peltier, J.-B. Poline, G.
+    Prasad, R.F. Pereira, P.-O. Quirion, **A. Rokem**, Z.S. Saad,
+    Y. Shi, S.C. Strother, R. Toro, L.Q. Uddin, J.D. Van Horn , J.W. Van Meter,
+    R.C. Welsh, T. Xu 2016. Brainhack: a collaborative workshop for the open
+    neuroscience community. *Gigascience*, 5:16, 31 March 2016
 
 #.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
     R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
@@ -53,7 +80,9 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
     F. Pestilli (2015)  A Major Human White Matter Pathway Between Dorsal and
     Ventral Visual Cortex. *Cerebral Cortex*, DOI: 10.1093/cercor/bhv064 `pdf <papers/Takemura2015VOF.pdf>`_.
 
-#.  B.A. Wandell, **A. Rokem**, L.M. Perry, G. Schaefer, R.F. Dougherty (2015). Data management to support reproducible research. *arXiv* 1502.06900. `pdf <http://arxiv.org/pdf/1502.06900v1.pdf>`_
+#.  B.A. Wandell, **A. Rokem**, L.M. Perry, G. Schaefer, R.F. Dougherty (2015).
+    Data management to support reproducible research. *arXiv* 1502.06900.
+    `pdf <http://arxiv.org/pdf/1502.06900v1.pdf>`_
 
 #.  C. Zheng, F. Pestilli, **A. Rokem** (2014). Quantifying error in estimates
     of human brain fiber directions using Earth Mover's Distance. *NIPS OTML
