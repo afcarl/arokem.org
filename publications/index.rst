@@ -14,6 +14,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
 #. **A. Rokem**, H. Takemura, A. Bock, K.S. Scherf, M. Behrmann, B.A. Wandell,
    I. Fine, H. Bridge, F. Pestilli (2017). The visual white matter: The
    application of diffusion MRI and fiber tractography to vision science.
+   *Journal of Vision* 17:4.
    `pdf <http://jov.arvojournals.org/data/journals/jov/936040/i1534-7362-17-2-4.pdf>`_.
 
 #. K. Desimone, **A. Rokem**, K. Schneider (2016). Popeye: a population
