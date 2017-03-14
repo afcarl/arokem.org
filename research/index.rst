@@ -4,8 +4,14 @@
  Research
 ==========
 
-I am interested in the biological basis of human cognition. In particular, I am interested in exploring the inferences that can be drawn from non-invasive measurements of human brains using magnetic resonance imaging (MRI) technologies. I am using statistical learning techniques in order to expand the scope of these inferences and improve their accuracy.
+I am interested in the development of tools and methods for the analysis of
+images of the human body. In particular, I am interested in exploring the
+inferences that can be drawn from non-invasive measurements of human brains
+using magnetic resonance imaging (MRI) technologies. I am using statistical
+learning techniques in order to expand the scope of these inferences and improve
+their accuracy.
 
+Below are descriptions of a few of my past research projects.
 
 Past research
 =============
@@ -15,13 +21,13 @@ from the most recent.
 
 Anatomical structure of the human visual system
 -----------------------------------------------
-In my postdoctoral research, I continued to study the human visual system. The projects I worked on combined measurements of multiple aspects of human brain structure and function with MRI. The scope of these studies ranged from statistical analysis of models of the human white matter, through analysis of human brain neurochemistry with magnetic resonance spectroscopy, and the delineation of specific white matter pathways connecting different parts of the human visual cortex.
+In my postdoctoral research, I worked on combined measurements of multiple aspects of human brain structure and function with MRI. The scope of these studies ranged from statistical analysis of models of the human white matter, through analysis of human brain neurochemistry with magnetic resonance spectroscopy, and the delineation of specific white matter pathways connecting different parts of the human visual cortex.
 
 
 Neurochemistry of perception, attention and learning
 ----------------------------------------------------
 As part of my PhD, I conducted several projects, examining the role of a
-variety of neurochemical mechanisms in perception attenton and learning. 
+variety of neurochemical mechanisms in perception attenton and learning.
 
 Neural mechanisms of perceptual learning:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,7 +39,7 @@ while they were training on a visual motion direction discrimination task. We
 found that enhancing the cholinergic system resulted in increased perceptual
 learning (PL) in the trained condition and in increased specificity of learning
 to that condition.
-   
+
 Neurochemical mechanisms of attention
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -120,8 +126,5 @@ __ martin_
 __ ines_
 __ hugo_
 __ crcns_
-
-
-
 
 .. include:: links.txt

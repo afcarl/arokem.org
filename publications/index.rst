@@ -6,15 +6,20 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. M. Beyeler, **A. Rokem**, G. Boynton, I. Fine (2017). Learning to see
+   again: Biological constraints on cortical plasticity and the implications
+   for sight restoration technologies.
+   `preprint <http://biorxiv.org/content/early/2017/03/09/115188>`_.
+
+#. **A. Rokem**, H. Takemura, A. Bock, K.S. Scherf, M. Behrmann, B.A. Wandell,
+   I. Fine, H. Bridge, F. Pestilli (2017). The visual white matter: The
+   application of diffusion MRI and fiber tractography to vision science.
+   `pdf <http://jov.arvojournals.org/data/journals/jov/936040/i1534-7362-17-2-4.pdf>`_.
+
 #. K. Desimone, **A. Rokem**, K. Schneider (2016). Popeye: a population
    receptive field esimation tool. *Journal of Open Source Software*:
    10.21105/joss.00103. `Paper <http://dx.doi.org/10.21105/joss.00103>`_.
    `Software <http://kdesimone.github.io/popeye/>`_.
-
-#. **A. Rokem**, H. Takemura, A. Bock, K.S. Scherf, M. Behrmann, B.A. Wandell,
-   I. Fine, H. Bridge, F. Pestilli (2016). The visual white matter: The
-   application of diffusion MRI and fiber tractography to vision science.
-   `preprint <http://biorxiv.org/content/early/2016/09/02/072793>`_.
 
 #. A. Ahmadia, J. Allen, P. Banaszkiewicz, E. Becker, T. Bekolay,
    J. Blischak, A. Boughton, E. Bray, A. Cabunoc Mayes, S Crouch, N. Davis,
@@ -48,7 +53,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
     Prasad, R.F. Pereira, P.-O. Quirion, **A. Rokem**, Z.S. Saad,
     Y. Shi, S.C. Strother, R. Toro, L.Q. Uddin, J.D. Van Horn , J.W. Van Meter,
     R.C. Welsh, T. Xu 2016. Brainhack: a collaborative workshop for the open
-    neuroscience community. *Gigascience*, 5:16, 31 March 2016
+    neuroscience community. *Gigascience*, 5:16. `Paper <https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x>`_
 
 #.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
     R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
