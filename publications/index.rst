@@ -6,6 +6,14 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
+    R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
+    Ramirez-Manzanares, J.L. Marroquin, **A. Rokem**, C. Pötter, R.F. Dougherty,
+    K. Sakaie, C. Wheeler-Kingshott, S.K. Warfield, T. Witzel, L.L. Wald, J.G.
+    Raya, D.C. Alexander (2016). Diffusion MRI microstructure models with in
+    vivo human brain Connectom data: results from a multi-group comparison. *NMR in Biomedicine* `pdf
+    <http://arxiv.org/pdf/1604.07287.pdf>`_.
+
 #. M. Beyeler, **A. Rokem**, G. Boynton, I. Fine (2017). Learning to see
    again: Biological constraints on cortical plasticity and the implications
    for sight restoration technologies.
@@ -55,14 +63,6 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
     Y. Shi, S.C. Strother, R. Toro, L.Q. Uddin, J.D. Van Horn , J.W. Van Meter,
     R.C. Welsh, T. Xu 2016. Brainhack: a collaborative workshop for the open
     neuroscience community. *Gigascience*, 5:16. `Paper <https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x>`_
-
-#.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
-    R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
-    Ramirez-Manzanares, J.L. Marroquin, **A. Rokem**, C. Pötter, R.F. Dougherty,
-    K. Sakaie, C. Wheeler-Kingshott, S.K. Warfield, T. Witzel, L.L. Wald, J.G.
-    Raya, D.C. Alexander (2016). Diffusion MRI microstructure models with in
-    vivo human brain Connectom data: results from a multi-group comparison. `pdf
-    <http://arxiv.org/pdf/1604.07287.pdf>`_.
 
 #. Q. Tian, **A. Rokem**, R.D. Folkreth, A. Nummenmaa, F. Qiuyun, B.L. Edlow,
    J.A. McNab (2016). Postmortem diffusion spectrum imaging of whole, ex vivo
