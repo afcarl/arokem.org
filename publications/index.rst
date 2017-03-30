@@ -6,11 +6,16 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. R. Neto Henriques, **A. Rokem**, E. Garyfallidis, S. St-Jean, E.T. Peterson,
+   M. Correia (2017). [Re] Optimization of a free water elimination
+   two-compartment model for diffusion tensor imaging. *ReScience*
+   `preprint <http://biorxiv.org/content/early/2017/02/15/108795>`_
+
 #.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
     R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
     Ramirez-Manzanares, J.L. Marroquin, **A. Rokem**, C. Pötter, R.F. Dougherty,
     K. Sakaie, C. Wheeler-Kingshott, S.K. Warfield, T. Witzel, L.L. Wald, J.G.
-    Raya, D.C. Alexander (2016). Diffusion MRI microstructure models with in
+    Raya, D.C. Alexander (2017). Diffusion MRI microstructure models with in
     vivo human brain Connectom data: results from a multi-group comparison. *NMR in Biomedicine* `pdf
     <http://arxiv.org/pdf/1604.07287.pdf>`_.
 
