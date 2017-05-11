@@ -32,6 +32,22 @@ Open access publications
 Publications in open access journals
 ------------------------------------
 
+#. R. Neto Henriques, **A. Rokem**, E. Garyfallidis, S. St-Jean, E.T. Peterson,
+   M. Correia (2017). [Re] Optimization of a free water elimination
+   two-compartment model for diffusion tensor imaging. *ReScience*
+   `pdf https://github.com/ReScience-Archives/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017/raw/master/article/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017.pdf`_
+
+#. **A. Rokem**, H. Takemura, A. Bock, K.S. Scherf, M. Behrmann, B.A. Wandell,
+  I. Fine, H. Bridge, F. Pestilli (2017). The visual white matter: The
+  application of diffusion MRI and fiber tractography to vision science.
+  *Journal of Vision* 17:4.
+  `pdf <http://jov.arvojournals.org/data/journals/jov/936040/i1534-7362-17-2-4.pdf>`_.
+
+#. K. Desimone, **A. Rokem**, K. Schneider (2016). Popeye: a population
+  receptive field esimation tool. *Journal of Open Source Software*:
+  10.21105/joss.00103. `Paper <http://dx.doi.org/10.21105/joss.00103>`_.
+  `Software <http://kdesimone.github.io/popeye/>`_.
+
 #. S. Ajina, F. Pestilli, **A. Rokem**, C. Kennard, H. Bridge (2015). Human
    blindsight is mediated by an intact geniculo-extrastriate pathway. *eLife*
    4:e08935, `pdf <http://elifesciences.org/content/elife/4/e08935.full.pdf>`_.
