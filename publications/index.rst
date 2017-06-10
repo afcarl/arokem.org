@@ -6,10 +6,28 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. C.S. Lee, A.J. Tyring, N.P. Deruyter, Y. Wu, **A. Rokem**, A.Y. Lee (2017).
+   Deep-Learning Based, Automated Segmentation Of Macular Edema In Optical
+   Coherence Tomography. `preprint <http://biorxiv.org/content/early/2017/05/09/135640>`_.
+
+
+#. M. Beyeler, G. M. Boynton, I. Fine, **A Rokem** (2017). `pulse2percept`: A
+   Python-based simulation framework for bionic vision.
+   `preprint <http://biorxiv.org/content/early/2017/06/09/148015>`_.
+
+#. P. Mehta, S. Dorkenwald, D. Zhao, T. Kaftan, A. Cheung, M. Balazinska,
+   **A. Rokem**, A. Connolly, J. Vanderplas, Y. AlSayyad (2017). Comparative
+   Evaluation of Big-Data Systems on Scientific Image Analytics Workloads.
+   *Proceedings of the VLDB Endowment*, Volume 10. `preprint <https://arxiv.org/abs/1612.02485>`_
+
+#. C. Holdgraf, A. Culich, **A Rokem**, F. Deniz, M. Alegro, D. Ushizima (2017)
+   Portable learning environments for hands-on computational instruction: Using
+   container- and cloud-based technology to teach data science. *Practice & Experience in Advanced Research Computing (PEARC) 2017*. `preprint <https://arxiv.org/abs/1703.04900>`_
+
 #. R. Neto Henriques, **A. Rokem**, E. Garyfallidis, S. St-Jean, E.T. Peterson,
    M. Correia (2017). [Re] Optimization of a free water elimination
    two-compartment model for diffusion tensor imaging. *ReScience*
-   `pdf https://github.com/ReScience-Archives/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017/raw/master/article/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017.pdf`_
+   `pdf <https://github.com/ReScience-Archives/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017/raw/master/article/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017.pdf>`_
 
 #.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
     R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
