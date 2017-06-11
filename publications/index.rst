@@ -7,13 +7,13 @@ Publications
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
 #. C.S. Lee, A.J. Tyring, N.P. Deruyter, Y. Wu, **A. Rokem**, A.Y. Lee (2017).
-   Deep-Learning Based, Automated Segmentation Of Macular Edema In Optical
-   Coherence Tomography. `preprint <http://biorxiv.org/content/early/2017/05/09/135640>`_.
-
+   Deep-learning based, automated segmentation of macular edema in optical
+   coherence tomography. `preprint <http://biorxiv.org/content/early/2017/05/09/135640>`_.
 
 #. M. Beyeler, G. M. Boynton, I. Fine, **A Rokem** (2017). `pulse2percept`: A
    Python-based simulation framework for bionic vision.
    `preprint <http://biorxiv.org/content/early/2017/06/09/148015>`_.
+   `software <https://uwescience.github.io/pulse2percept/>`_
 
 #. P. Mehta, S. Dorkenwald, D. Zhao, T. Kaftan, A. Cheung, M. Balazinska,
    **A. Rokem**, A. Connolly, J. Vanderplas, Y. AlSayyad (2017). Comparative
@@ -28,6 +28,9 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
    M. Correia (2017). [Re] Optimization of a free water elimination
    two-compartment model for diffusion tensor imaging. *ReScience*
    `pdf <https://github.com/ReScience-Archives/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017/raw/master/article/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017.pdf>`_
+
+#. M. Lee, R. Dottle, C. Espino, I. Subkhan, **A. Rokem**, A. Mashhadi (2017).
+   A Tool for Estimating and Visualizing Poverty Maps. *Proceedings of the Netmob Conference* `pdf <papers/poverty_netmob17.pdf>`_.
 
 #.  U. Ferizi, B. Scherrer, T. Schneider, M. Alipoor, O. Eufracio, R.H.J. Fick,
     R. Deriche, M. Nilsson, A.K. Loya-Olivas, M. Rivera, D.H.J. Poot, A.
@@ -124,7 +127,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
 #. C. Zheng, F. Pestilli, **A. Rokem**
    (2014). Deconvolution of High Dimensional Mixtures via Boosting, with
    Application to Diffusion-Weighted MRI of Human Brain.
-   *Forthcoming in: Advances in Neural Information Processing 27 (NIPS 2014).*
+   *Advances in Neural Information Processing 27 (NIPS 2014).*
    `pdf <http://arxiv.org/abs/1409.7134>`_.
 
 #. F. Pestilli, J. Yeatman, **A. Rokem**, K. Kay, B.A. Wandell
