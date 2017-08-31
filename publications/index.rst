@@ -6,6 +6,12 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. J.D. Yeatman, A. Richie-Halford, J.K. Smith, **A. Rokem** (2017).
+   AFQ-Browser: Supporting reproducible human neuroscience research through
+   browser-based visualization tools.
+   `preprint <http://www.biorxiv.org/content/early/2017/08/30/182402>`_,
+   `software <https://github.com/yeatmanlab/AFQ-Browser>`_.
+
 #. A.M. Smith, K.E. Niemeyer, D.S. Katz, L.A. Barba, G. Githinji, M. Gymrek,
    K.D. Huff, C.R. Madan, A.C. Mayes, K.M. Moerman, P. Prins, K. Ram,
    **A. Rokem**, T.K. Teal, R.V. Guimera, J.T. Vanderplas (2017). Journal
@@ -15,11 +21,14 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
 #. M. Beyeler, **A. Rokem**, G. Boynton, I. Fine (2017). Learning to see
    again: Biological constraints on cortical plasticity and the implications
    for sight restoration technologies. *Journal of Neural Engineering*
-   `preprint <http://biorxiv.org/content/early/2017/03/09/115188>`_.
+   `preprint <http://biorxiv.org/content/early/2017/03/09/115188>`_,
+   `software <https://github.com/uwescience/pulse2percept>`_.
 
 #. C.S. Lee, A.J. Tyring, N.P. Deruyter, Y. Wu, **A. Rokem**, A.Y. Lee (2017).
    Deep-learning based, automated segmentation of macular edema in optical
-   coherence tomography. *Biomedical Optics Express* `preprint <http://biorxiv.org/content/early/2017/05/09/135640>`_.
+   coherence tomography. *Biomedical Optics Express*
+   `preprint <http://biorxiv.org/content/early/2017/05/09/135640>`_,
+   `software <https://github.com/uw-biomedical-ml/irf-segmenter>`_.
 
 #. M. Beyeler, G. M. Boynton, I. Fine, **A Rokem** (2017). `pulse2percept`: A
    Python-based simulation framework for bionic vision.
@@ -49,7 +58,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
     K. Sakaie, C. Wheeler-Kingshott, S.K. Warfield, T. Witzel, L.L. Wald, J.G.
     Raya, D.C. Alexander (2017). Diffusion MRI microstructure models with in
     vivo human brain Connectom data: results from a multi-group comparison. *NMR in Biomedicine* `pdf
-    <http://arxiv.org/pdf/1604.07287.pdf>`_.
+    <http://arxiv.org/pdf/1604.07287.pdf>`_, `software <http://arokem.github.io/ISBI2015/>`_.
 
 #. **A. Rokem**, H. Takemura, A. Bock, K.S. Scherf, M. Behrmann, B.A. Wandell,
    I. Fine, H. Bridge, F. Pestilli (2017). The visual white matter: The
