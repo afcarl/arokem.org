@@ -6,13 +6,13 @@
  Reproducibility and open science
 =======================================
 
-I am the co-leader of the `eScience Working Group on Reproducibility and Open
+I am the chair of the `eScience Working Group on Reproducibility and Open
 Science <http://uwescience.github.io/reproducible>`_. As part of the activities
 of the working group, we are interested in clarifying guidelines for steps that
 researchers at UW and elsewhere can take to increase the reproducibility and
-openess of their work. As an example, I am publishing here a few of the
-activities that I have undertaken to increase the reproducibility and openess of
-my own work
+openness of their work. As an example, I am publishing here a few of the
+activities that I have undertaken to increase the reproducibility and openness
+of my own work
 
 Where to find my published work:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,6 +103,8 @@ Publications in open access journals
 
 Slide decks from talks that I have given
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Talk given at the annual PNW Prostate Cancer SPORES: https://arokem.github.io/2017-07-24-spore/
 
 - Talk about `pulse2percept` incubator project -- models for retinal prosthetics: http://arokem.github.io/2016-03-27-pulse2percept
 
