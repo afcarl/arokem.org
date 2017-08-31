@@ -1,10 +1,11 @@
-========
-Welcome!
-========
 
-I am a Senior Data Scientist and a Data Science Fellow at the `University of Washington eScience Institute <http://escience.washington.edu>`_  and a member of the `University of Washington Institute for Neuroengineering <http://uwin.washington.edu>`_
+Senior Data Scientist and a Data Science Fellow at the `University of Washington eScience Institute <http://escience.washington.edu>`_
 
-In my work, I create and facilitate the use of ideas, processes and technologies that advance data-intensive discovery in all fields.
+Member of the `University of Washington Institute for Neuroengineering <http://uwin.washington.edu>`_
+
+Chair of the `Reproducibility and Open Science Working Group <http://uwescience.github.io/reproducible/>`_ at the eScience Institute.
+
+Director of the `Summer Institute in Neuroimaging and Data Science <https://neurohackweek.github.io/>`_.
 
 __ escience_
 __ uwin_
