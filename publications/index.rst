@@ -21,8 +21,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
 #. M. Beyeler, **A. Rokem**, G. Boynton, I. Fine (2017). Learning to see
    again: Biological constraints on cortical plasticity and the implications
    for sight restoration technologies. *Journal of Neural Engineering*
-   `preprint <http://biorxiv.org/content/early/2017/03/09/115188>`_,
-   `software <https://github.com/uwescience/pulse2percept>`_.
+   `preprint <http://biorxiv.org/content/early/2017/03/09/115188>`_.
 
 #. C.S. Lee, A.J. Tyring, N.P. Deruyter, Y. Wu, **A. Rokem**, A.Y. Lee (2017).
    Deep-learning based, automated segmentation of macular edema in optical
@@ -32,8 +31,8 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
 
 #. M. Beyeler, G. M. Boynton, I. Fine, **A Rokem** (2017). `pulse2percept`: A
    Python-based simulation framework for bionic vision.
-   `preprint <http://biorxiv.org/content/early/2017/06/09/148015>`_.
-   `software <https://uwescience.github.io/pulse2percept/>`_
+   `preprint <http://biorxiv.org/content/early/2017/06/09/148015>`_,
+   `software <https://uwescience.github.io/pulse2percept/>`_.
 
 #. P. Mehta, S. Dorkenwald, D. Zhao, T. Kaftan, A. Cheung, M. Balazinska,
    **A. Rokem**, A. Connolly, J. Vanderplas, Y. AlSayyad (2017). Comparative
