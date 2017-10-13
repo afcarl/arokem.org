@@ -104,7 +104,8 @@ Publications in open access journals
 Slide decks from talks that I have given
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Talk given at the annual PNW Prostate Cancer SPORES: https://arokem.github.io/2017-07-24-spore/
+- Talk given at the annual PNW Prostate Cancer SPORES:
+https://arokem.github.io/2017-07-24-spore/
 
 - Talk about `pulse2percept` incubator project -- models for retinal prosthetics: http://arokem.github.io/2016-03-27-pulse2percept
 

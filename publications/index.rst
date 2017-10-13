@@ -6,6 +6,10 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. **A. Rokem**, Y. Wu, A. Lee (2017). Assessment of the need for separate test
+  set and number of medical images necessary for deep learning: a sub-sampling
+  study. `preprint <https://www.biorxiv.org/content/early/2017/10/01/196659.1>`
+
 #. J.D. Yeatman, A. Richie-Halford, J.K. Smith, **A. Rokem** (2017).
    AFQ-Browser: Supporting reproducible human neuroscience research through
    browser-based visualization tools.
