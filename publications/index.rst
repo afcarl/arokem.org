@@ -6,9 +6,20 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. S. Xiao, F. Bucher, Y. Wu, **A. Rokem**, C.S. Lee, K.V. Marra, R. Fallon,6
+   S. Diaz-Aguilar, E. Aguilar, M. Friedlander, and A.Y. Lee (2017).
+   Fully automated, deep learning segmentation of oxygen-induced retinopathy
+   images. *JCI Insight* 2: e97585.
+   `pdf <https://insight.jci.org/articles/view/97585/pdf>`_
+
 #. **A. Rokem**, Y. Wu, A. Lee (2017). Assessment of the need for separate test
-  set and number of medical images necessary for deep learning: a sub-sampling
-  study. `preprint <https://www.biorxiv.org/content/early/2017/10/01/196659.1>`
+   set and number of medical images necessary for deep learning: a sub-sampling
+   study.
+   `preprint <https://www.biorxiv.org/content/early/2017/10/01/196659.1>`_
+
+#. K. Polimis, **A. Rokem**, B. Hazelton (2017). Confidence Intervals for
+   Random Forests in Python. *Journal of Open Source Software*, 2: 124. `pdf <http://www.theoj.org/joss-papers/joss.00124/10.21105.joss.00124.pdf>`_
+   `software <http://contrib.scikit-learn.org/forest-confidence-interval/>`_
 
 #. J.D. Yeatman, A. Richie-Halford, J.K. Smith, **A. Rokem** (2017).
    AFQ-Browser: Supporting reproducible human neuroscience research through
