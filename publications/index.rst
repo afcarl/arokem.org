@@ -14,9 +14,10 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
    study. 
    `preprint <https://www.biorxiv.org/content/early/2017/10/01/196659.1>`_
 
-#. J.D. Yeatman, A. Richie-Halford, J.K. Smith, **A. Rokem** (2018).
-   AFQ-Browser: Supporting reproducible human neuroscience research through
-   browser-based visualization tools. *Nature Communications* 9: 940
+#. J.D. Yeatman, A. Richie-Halford, J.K. Smith, A. Keshavan, 
+   **A. Rokem** (2018). AFQ-Browser: Supporting reproducible human neuroscience 
+   research through browser-based visualization tools. *Nature Communications* 
+   9: 940
    `pdf <https://www.nature.com/articles/s41467-018-03297-7>`_,
    `software <https://github.com/yeatmanlab/AFQ-Browser>`_.
 
