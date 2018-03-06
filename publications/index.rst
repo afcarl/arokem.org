@@ -7,8 +7,7 @@ Publications
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
 #. D. Huppenkothen, A. Arendt, D.W. Hogg, K. Ram, J. Vanderplas, **A. Rokem** 
-   (2018). Hack Weeks as a model for Data Science Education and Collaboration. 
-    `preprint <https://arxiv.org/abs/1711.00028>`_.
+   (2018). Hack Weeks as a model for Data Science Education and Collaboration.  `preprint <https://arxiv.org/abs/1711.00028>`_.
 
 #. **A. Rokem**, Y. Wu, A. Lee (2018). Assessment of the need for separate test
    set and number of medical images necessary for deep learning: a sub-sampling
