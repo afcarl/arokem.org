@@ -6,32 +6,36 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. D. Huppenkothen, A. Arendt, D.W. Hogg, K. Ram, J. Vanderplas, **A. Rokem** 
+   (2018). Hack Weeks as a model for Data Science Education and Collaboration. 
+    `preprint <https://arxiv.org/abs/1711.00028>`_.
+
+#. **A. Rokem**, Y. Wu, A. Lee (2018). Assessment of the need for separate test
+   set and number of medical images necessary for deep learning: a sub-sampling
+   study. 
+   `preprint <https://www.biorxiv.org/content/early/2017/10/01/196659.1>`_
+
+#. J.D. Yeatman, A. Richie-Halford, J.K. Smith, **A. Rokem** (2018).
+   AFQ-Browser: Supporting reproducible human neuroscience research through
+   browser-based visualization tools. *Nature Communications* 9: 940
+   `pdf <https://www.nature.com/articles/s41467-018-03297-7>`_,
+   `software <https://github.com/yeatmanlab/AFQ-Browser>`_.
+
+#. A.M. Smith, K.E. Niemeyer, D.S. Katz, L.A. Barba, G. Githinji, M. Gymrek,
+   K.D. Huff, C.R. Madan, A.C. Mayes, K.M. Moerman, P. Prins, K. Ram,
+   **A. Rokem**, T.K. Teal, R.V. Guimera, J.T. Vanderplas (2018). Journal
+   of Open Source Software (JOSS): design and first-year review. *PeerJ Computer
+   Science* 4:e147 `pdf <https://peerj.com/articles/cs-147/>`_.
+   
 #. S. Xiao, F. Bucher, Y. Wu, **A. Rokem**, C.S. Lee, K.V. Marra, R. Fallon,6
    S. Diaz-Aguilar, E. Aguilar, M. Friedlander, and A.Y. Lee (2017).
    Fully automated, deep learning segmentation of oxygen-induced retinopathy
    images. *JCI Insight* 2: e97585.
    `pdf <https://insight.jci.org/articles/view/97585/pdf>`_
 
-#. **A. Rokem**, Y. Wu, A. Lee (2017). Assessment of the need for separate test
-   set and number of medical images necessary for deep learning: a sub-sampling
-   study.
-   `preprint <https://www.biorxiv.org/content/early/2017/10/01/196659.1>`_
-
 #. K. Polimis, **A. Rokem**, B. Hazelton (2017). Confidence Intervals for
    Random Forests in Python. *Journal of Open Source Software*, 2: 124. `pdf <http://www.theoj.org/joss-papers/joss.00124/10.21105.joss.00124.pdf>`_
    `software <http://contrib.scikit-learn.org/forest-confidence-interval/>`_
-
-#. J.D. Yeatman, A. Richie-Halford, J.K. Smith, **A. Rokem** (2017).
-   AFQ-Browser: Supporting reproducible human neuroscience research through
-   browser-based visualization tools.
-   `preprint <http://www.biorxiv.org/content/early/2017/08/30/182402>`_,
-   `software <https://github.com/yeatmanlab/AFQ-Browser>`_.
-
-#. A.M. Smith, K.E. Niemeyer, D.S. Katz, L.A. Barba, G. Githinji, M. Gymrek,
-   K.D. Huff, C.R. Madan, A.C. Mayes, K.M. Moerman, P. Prins, K. Ram,
-   **A. Rokem**, T.K. Teal, R.V. Guimera, J.T. Vanderplas (2017). Journal
-   of Open Source Software (JOSS): design and first-year review.
-   `preprint <https://arxiv.org/abs/1707.02264>`_.
 
 #. M. Beyeler, **A. Rokem**, G. Boynton, I. Fine (2017). Learning to see
    again: Biological constraints on cortical plasticity and the implications
