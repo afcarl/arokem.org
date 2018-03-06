@@ -120,7 +120,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
     Mennes, S. Mesmoudi, D. O’Connor, E.H. Pasaye, S. Peltier, J.-B. Poline, G.
     Prasad, R.F. Pereira, P.-O. Quirion, **A. Rokem**, Z.S. Saad,
     Y. Shi, S.C. Strother, R. Toro, L.Q. Uddin, J.D. Van Horn , J.W. Van Meter,
-    R.C. Welsh, T. Xu 2016. Brainhack: a collaborative workshop for the open
+    R.C. Welsh, T. Xu (2016). Brainhack: a collaborative workshop for the open
     neuroscience community. *Gigascience*, 5:16. `Paper <https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x>`_
 
 #. Q. Tian, **A. Rokem**, R.D. Folkreth, A. Nummenmaa, F. Qiuyun, B.L. Edlow,
